@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .AUCTION one-word domains still available to buy.
 
-This dataset contains 4,707 .AUCTION one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,708 .AUCTION one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.AUCTION one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=auction-oneword-domains&utm_content=description.top) (4,707) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.AUCTION one word doma
 | aaron.auction      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.auction  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.auction      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.auction  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.auction  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.auction    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.auction     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.auction   | available | 54       | 1%     | 8      |           |         |         |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.AUCTION one word doma
 | abbatial.auction   | available | 50       | 1%     | 8      |           |         |         |
 | abc.auction        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.auction  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.auction  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.auction  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.auction | available | 56       | 1%     | 10     |           |         |         |
 | abducens.auction   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.auction   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.AUCTION one word doma
 | aberdonian.auction | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.auction   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.auction    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.auction  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.auction  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.auction    | available | 106      | 5%     | 7      |           |         |         |
 | abient.auction     | available | 54       | 1%     | 6      |           |         |         |
 | abit.auction       | available | 66       | 16%    | 5      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.AUCTION one word doma
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
