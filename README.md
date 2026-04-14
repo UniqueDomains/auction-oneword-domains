@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .auction one-word domains from Uni
 
 **Public extract:** 9,497 rows · **Live catalog:** 9,496 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/auction`  
 **Best for:** founders, investors, studios
 
@@ -76,12 +76,12 @@ print(df.head())
 | mix.auction        | available | $4.99     | $52.99        | 66             | 42     | 3      | name.com                                                  |
 | future.auction     | resell    | —         | —             | 94             | 55     | 6      | GoDaddy.com, LLC                                          |
 | game.auction       | premium   | $1,250    | $1,250        | 120            | 50     | 4      | name.com                                                  |
-| mark.auction       | available | $4.99     | $52.99        | 66             | 42     | 4      | name.com                                                  |
-| wallet.auction     | resell    | —         | —             | 74             | 54     | 6      | Sav.com, LLC                                              |
-| design.auction     | premium   | $1,250    | $1,250        | 108            | 50     | 6      | name.com                                                  |
 | agile.auction      | available | $4.99     | $52.99        | 92             | 41     | 5      | name.com                                                  |
-| god.auction        | resell    | —         | —             | 90             | 51     | 3      | Porkbun LLC                                               |
+| wallet.auction     | resell    | —         | —             | 74             | 54     | 6      | Sav.com, LLC                                              |
 | abc.auction        | premium   | $1,300    | $1,300        | 102            | 50     | 3      | namecheap                                                 |
+| mark.auction       | available | $4.99     | $52.99        | 66             | 41     | 4      | name.com                                                  |
+| god.auction        | resell    | —         | —             | 90             | 51     | 3      | Porkbun LLC                                               |
+| life.auction       | premium   | $128.70   | $128.70       | 84             | 50     | 4      | namecheap                                                 |
 | order.auction      | available | $4.99     | $52.99        | 78             | 40     | 5      | name.com                                                  |
 | info.auction       | resell    | —         | —             | 80             | 51     | 4      | Spaceship, Inc.                                           |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
