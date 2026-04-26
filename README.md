@@ -1,22 +1,22 @@
-# Available .AUCTION One-Word Domains (9,496)
+# Available .AUCTION One-Word Domains (12,224)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C497%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C496%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C224%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .auction one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .auction one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,224 domains** on the canonical page below.
 
-**Public extract:** 9,497 rows · **Live catalog:** 9,496 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,224 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/auction`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .AUCTION one-word doma
 
 ### Files
 
-- `auction.csv` — public CSV extract (9,497 rows)
-- `auction.json` — public JSON extract (9,497 rows)
+- `auction.csv` — public CSV extract (1,000 rows)
+- `auction.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| team.auction       | available | $4.99     | —             | 76             | 49     | 4      | name.com                                                  |
-| fire.auction       | resell    | —         | —             | 70             | 75     | 4      | GoDaddy.com, LLC                                          |
-| enterprise.auction | premium   | $85.80    | $85.80        | 68             | 61     | 10     | namecheap                                                 |
-| forge.auction      | available | $4.99     | $52.99        | 62             | 45     | 5      | name.com                                                  |
-| cloud.auction      | resell    | —         | —             | 70             | 59     | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| business.auction   | premium   | $520      | $520          | 100            | 53     | 8      | namecheap                                                 |
-| track.auction      | available | $4.99     | $52.99        | 94             | 42     | 5      | name.com                                                  |
-| data.auction       | resell    | —         | —             | 70             | 56     | 4      | Sav.com, LLC - 36                                         |
-| one.auction        | premium   | $1,250    | $1,250        | 132            | 50     | 3      | name.com                                                  |
-| mix.auction        | available | $4.99     | $52.99        | 66             | 42     | 3      | name.com                                                  |
-| future.auction     | resell    | —         | —             | 94             | 55     | 6      | GoDaddy.com, LLC                                          |
-| game.auction       | premium   | $1,250    | $1,250        | 120            | 50     | 4      | name.com                                                  |
-| agile.auction      | available | $4.99     | $52.99        | 92             | 41     | 5      | name.com                                                  |
-| wallet.auction     | resell    | —         | —             | 74             | 54     | 6      | Sav.com, LLC                                              |
-| abc.auction        | premium   | $1,300    | $1,300        | 102            | 50     | 3      | namecheap                                                 |
-| mark.auction       | available | $4.99     | $52.99        | 66             | 41     | 4      | name.com                                                  |
-| god.auction        | resell    | —         | —             | 90             | 51     | 3      | Porkbun LLC                                               |
-| life.auction       | premium   | $128.70   | $128.70       | 84             | 50     | 4      | namecheap                                                 |
-| order.auction      | available | $4.99     | $52.99        | 78             | 40     | 5      | name.com                                                  |
-| info.auction       | resell    | —         | —             | 80             | 51     | 4      | Spaceship, Inc.                                           |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
+| Ryan.auction        | available | $46.98    | —             | 60             | 44     | 4      | namecheap                                 |
+| popup.auction       | resell    | —         | —             | 84             | 29     | 6      | Dreamscape Networks International Pte Ltd |
+| homes.auction       | premium   | $500      | —             | 86             | 34     | 5      | name.com                                  |
+| whynot.auction      | available | $4.99     | —             | 74             | 39     | 7      | name.com                                  |
+| products.auction    | resell    | —         | —             | 60             | 23     | 8      | 101domain GRS Limited                     |
+| tickets.auction     | premium   | $1,107    | $1,107        | 64             | 34     | 7      | namesilo                                  |
+| aliens.auction      | available | $4.99     | —             | 56             | 35     | 6      | name.com                                  |
+| spaces.auction      | premium   | $123.75   | —             | 54             | 30     | 6      | name.com                                  |
+| etc.auction         | available | $4.99     | —             | 58             | 34     | 3      | name.com                                  |
+| gems.auction        | premium   | $242      | $242          | 70             | 28     | 4      | namesilo                                  |
+| trends.auction      | available | $4.99     | —             | 60             | 32     | 6      | name.com                                  |
+| brands.auction      | premium   | $1,250    | —             | 62             | 28     | 6      | name.com                                  |
+| solutions.auction   | available | $4.99     | —             | 56             | 31     | 9      | name.com                                  |
+| destination.auction | premium   | $250      | —             | 90             | 25     | 11     | name.com                                  |
+| inspiration.auction | available | $4.99     | —             | 88             | 30     | 11     | name.com                                  |
+| boats.auction       | premium   | $1,250    | —             | 52             | 24     | 5      | name.com                                  |
+| rewards.auction     | available | $4.99     | —             | 62             | 30     | 7      | name.com                                  |
+| girls.auction       | premium   | $123.75   | —             | 83             | 23     | 5      | name.com                                  |
+| forms.auction       | available | $4.99     | —             | 54             | 28     | 5      | name.com                                  |
+| Places.auction      | premium   | $280      | $280          | 74             | 22     | 6      | namecheap                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,497-row public sample | 9,496 live domains                               |
+| 1,000-row public sample | 12,224 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
