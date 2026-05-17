@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .auction one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,443 domains · **Median ask:** $42.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/auction`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| Ryan.auction        | available | $46.98    | —             | 60             | 44     | 4      | namecheap                                 |
-| popup.auction       | resell    | —         | —             | 84             | 29     | 6      | Dreamscape Networks International Pte Ltd |
+| whynot.auction      | available | $4.99     | —             | 74             | 44     | 7      | name.com                                  |
+| popup.auction       | resell    | —         | —             | 84             | 28     | 6      | Dreamscape Networks International Pte Ltd |
 | homes.auction       | premium   | $500      | —             | 86             | 34     | 5      | name.com                                  |
-| whynot.auction      | available | $4.99     | —             | 74             | 39     | 7      | name.com                                  |
+| Ryan.auction        | available | $46.98    | —             | 60             | 44     | 4      | namecheap                                 |
 | products.auction    | resell    | —         | —             | 60             | 23     | 8      | 101domain GRS Limited                     |
 | tickets.auction     | premium   | $1,107    | $1,107        | 64             | 34     | 7      | namesilo                                  |
 | etc.auction         | available | $4.99     | —             | 58             | 34     | 3      | name.com                                  |
@@ -75,7 +75,7 @@ print(df.head())
 | trends.auction      | available | $4.99     | —             | 60             | 32     | 6      | name.com                                  |
 | gems.auction        | premium   | $242      | $242          | 70             | 28     | 4      | namesilo                                  |
 | solutions.auction   | available | $4.99     | —             | 56             | 31     | 9      | name.com                                  |
-| destination.auction | premium   | $250      | —             | 90             | 25     | 11     | name.com                                  |
+| destination.auction | premium   | $250      | —             | 90             | 24     | 11     | name.com                                  |
 | inspiration.auction | available | $4.99     | —             | 88             | 30     | 11     | name.com                                  |
 | boats.auction       | premium   | $1,250    | —             | 52             | 24     | 5      | name.com                                  |
 | rewards.auction     | available | $4.99     | —             | 62             | 30     | 7      | name.com                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
