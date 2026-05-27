@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .auction one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,443 domains · **Median ask:** $42.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/auction`  
 **Best for:** founders, investors, studios
 
@@ -70,18 +70,18 @@ print(df.head())
 | Ryan.auction        | available | $46.98    | —             | 60             | 44     | 4      | namecheap                                 |
 | products.auction    | resell    | —         | —             | 60             | 23     | 8      | 101domain GRS Limited                     |
 | tickets.auction     | premium   | $1,107    | $1,107        | 64             | 34     | 7      | namesilo                                  |
-| etc.auction         | available | $4.99     | —             | 58             | 34     | 3      | name.com                                  |
-| spaces.auction      | premium   | $123.75   | —             | 54             | 30     | 6      | name.com                                  |
 | trends.auction      | available | $4.99     | —             | 60             | 32     | 6      | name.com                                  |
+| spaces.auction      | premium   | $123.75   | —             | 54             | 30     | 6      | name.com                                  |
+| etc.auction         | available | $4.99     | —             | 58             | 32     | 3      | name.com                                  |
 | gems.auction        | premium   | $242      | $242          | 70             | 28     | 4      | namesilo                                  |
 | solutions.auction   | available | $4.99     | —             | 56             | 31     | 9      | name.com                                  |
 | destination.auction | premium   | $250      | —             | 90             | 24     | 11     | name.com                                  |
-| inspiration.auction | available | $4.99     | —             | 88             | 30     | 11     | name.com                                  |
-| boats.auction       | premium   | $1,250    | —             | 52             | 24     | 5      | name.com                                  |
 | rewards.auction     | available | $4.99     | —             | 62             | 30     | 7      | name.com                                  |
-| girls.auction       | premium   | $123.75   | —             | 83             | 23     | 5      | name.com                                  |
+| boats.auction       | premium   | $1,250    | —             | 52             | 24     | 5      | name.com                                  |
 | forms.auction       | available | $4.99     | —             | 54             | 28     | 5      | name.com                                  |
-| Places.auction      | premium   | $280      | $280          | 74             | 22     | 6      | namecheap                                 |
+| girls.auction       | premium   | $123.75   | —             | 83             | 23     | 5      | name.com                                  |
+| inspiration.auction | available | $4.99     | —             | 88             | 27     | 11     | name.com                                  |
+| Places.auction      | premium   | $280      | $280          | 74             | 23     | 6      | namecheap                                 |
 | backyard.auction    | available | $4.99     | —             | 80             | 27     | 9      | name.com                                  |
 | guns.auction        | premium   | $500      | —             | 68             | 22     | 4      | name.com                                  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
