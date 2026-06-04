@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .auction one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,443 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,443 domains · **Median ask:** $42.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,443 domains · **Median ask:** $35.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/auction`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| whynot.auction      | available | $4.99     | —             | 74             | 44     | 7      | name.com                                  |
-| popup.auction       | resell    | —         | —             | 84             | 28     | 6      | Dreamscape Networks International Pte Ltd |
-| homes.auction       | premium   | $500      | —             | 86             | 34     | 5      | name.com                                  |
-| Ryan.auction        | available | $46.98    | —             | 60             | 44     | 4      | namecheap                                 |
-| products.auction    | resell    | —         | —             | 60             | 23     | 8      | 101domain GRS Limited                     |
-| tickets.auction     | premium   | $1,107    | $1,107        | 64             | 34     | 7      | namesilo                                  |
-| trends.auction      | available | $4.99     | —             | 60             | 32     | 6      | name.com                                  |
-| spaces.auction      | premium   | $123.75   | —             | 54             | 30     | 6      | name.com                                  |
-| etc.auction         | available | $4.99     | —             | 58             | 32     | 3      | name.com                                  |
-| gems.auction        | premium   | $242      | $242          | 70             | 28     | 4      | namesilo                                  |
-| solutions.auction   | available | $4.99     | —             | 56             | 31     | 9      | name.com                                  |
-| destination.auction | premium   | $250      | —             | 90             | 24     | 11     | name.com                                  |
-| rewards.auction     | available | $4.99     | —             | 62             | 30     | 7      | name.com                                  |
-| boats.auction       | premium   | $1,250    | —             | 52             | 24     | 5      | name.com                                  |
-| forms.auction       | available | $4.99     | —             | 54             | 28     | 5      | name.com                                  |
-| girls.auction       | premium   | $123.75   | —             | 83             | 23     | 5      | name.com                                  |
-| inspiration.auction | available | $4.99     | —             | 88             | 27     | 11     | name.com                                  |
-| Places.auction      | premium   | $280      | $280          | 74             | 23     | 6      | namecheap                                 |
-| backyard.auction    | available | $4.99     | —             | 80             | 27     | 9      | name.com                                  |
-| guns.auction        | premium   | $500      | —             | 68             | 22     | 4      | name.com                                  |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| fallen.auction      | available | $4.99     | —             | 82             | 11     | 6      | name.com  |
+| crowd.auction       | available | $4.99     | —             | 98             | 33     | 5      | name.com  |
+| inspiring.auction   | available | $4.99     | —             | 92             | 13     | 9      | name.com  |
+| cherryontop.auction | available | $4.99     | —             | 82             | 9      | 13     | name.com  |
+| pull.auction        | available | $4.99     | —             | 104            | 21     | 4      | name.com  |
+| component.auction   | available | $4.99     | $52.99        | 84             | 19     | 9      | name.com  |
+| bravery.auction     | available | $4.99     | —             | 80             | 12     | 7      | name.com  |
+| chief.auction       | available | $4.99     | —             | 120            | 30     | 5      | name.com  |
+| rooms.auction       | premium   | $242      | $242          | 80             | 27     | 5      | namesilo  |
+| resounding.auction  | available | $4.99     | —             | 88             | 5      | 10     | name.com  |
+| midFebruary.auction | available | $4.99     | —             | 98             | 1      | 12     | name.com  |
+| concoct.auction     | available | $4.99     | —             | 109            | 4      | 7      | name.com  |
+| squirrel.auction    | available | $4.99     | —             | 88             | 27     | 8      | name.com  |
+| different.auction   | available | $4.99     | $52.99        | 100            | 25     | 9      | name.com  |
+| bead.auction        | available | $4.99     | —             | 92             | 15     | 4      | name.com  |
+| glitter.auction     | available | $4.99     | —             | 96             | 18     | 7      | name.com  |
+| tech.auction        | premium   | $500      | —             | 104            | 48     | 4      | name.com  |
+| atheist.auction     | available | $4.99     | —             | 88             | 11     | 7      | name.com  |
+| silent.auction      | premium   | —         | —             | 80             | 24     | 6      | —         |
+| piss.auction        | available | $4.99     | —             | 112            | 26     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
