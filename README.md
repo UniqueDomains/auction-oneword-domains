@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .auction one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,046 domains · **Median ask:** $22.36 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/auction`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
