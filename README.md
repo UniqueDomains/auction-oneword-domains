@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| abo.auction     | available | $4.99     | $52.99        | low            | low    | 3      | name.com         |
-| tel.auction     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
-| ADS.auction     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo         |
-| cue.auction     | available | $4.99     | —             | medium         | low    | 3      | name.com         |
-| bits.auction    | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC     |
-| apt.auction     | premium   | $250      | —             | high           | low    | 3      | name.com         |
-| did.auction     | available | $4.99     | —             | high           | low    | 3      | name.com         |
-| deep.auction    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| bus.auction     | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| ear.auction     | available | $4.99     | —             | high           | low    | 3      | name.com         |
-| happy.auction   | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| lot.auction     | premium   | $500      | —             | medium         | low    | 3      | name.com         |
-| eve.auction     | available | $4.99     | —             | high           | medium | 3      | name.com         |
-| super.auction   | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc      |
-| baby.auction    | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
-| flu.auction     | available | $4.99     | —             | medium         | low    | 3      | name.com         |
-| triad.auction   | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC |
-| city.auction    | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
-| had.auction     | available | $4.99     | —             | high           | low    | 3      | name.com         |
-| success.auction | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| abo.auction      | available | $4.99     | $52.99        | low            | low    | 3      | name.com         |
+| tel.auction      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
+| ADS.auction      | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo         |
+| cue.auction      | available | $4.99     | —             | medium         | low    | 3      | name.com         |
+| deep.auction     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| apt.auction      | premium   | $250      | —             | high           | low    | 3      | name.com         |
+| did.auction      | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| happy.auction    | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| bus.auction      | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| ear.auction      | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| super.auction    | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc      |
+| lot.auction      | premium   | $500      | —             | medium         | low    | 3      | name.com         |
+| eve.auction      | available | $4.99     | —             | high           | medium | 3      | name.com         |
+| triad.auction    | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC |
+| baby.auction     | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
+| flu.auction      | available | $4.99     | —             | medium         | low    | 3      | name.com         |
+| success.auction  | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| city.auction     | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
+| had.auction      | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| election.auction | resell    | —         | —             | high           | low    | 8      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
