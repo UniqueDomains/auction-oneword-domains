@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .auction one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,800 domains · **Median ask:** $29.33 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/auction`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| less.auction     | available | $4.99     | —             | high           | low    | 4      | name.com         |
 | abo.auction      | available | $4.99     | $52.99        | low            | low    | 3      | name.com         |
 | tel.auction      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
 | ads.auction      | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | election.auction | resell    | —         | —             | high           | low    | 8      | Porkbun LLC      |
 | baby.auction     | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
 | had.auction      | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| city.auction     | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
