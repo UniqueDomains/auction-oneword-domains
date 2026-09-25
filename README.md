@@ -1,10 +1,10 @@
-# Available .AUCTION One-Word Domains (29,800)
+# Available .AUCTION One-Word Domains (32,495)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C800%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C495%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .auction one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,800 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,495 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,800 domains · **Median ask:** $29.33 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 32,495 domains · **Median ask:** $31.35 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/auction`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| abo.auction      | available | $4.99     | $52.99        | low            | low    | 3      | name.com         |
-| tel.auction      | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
-| ads.auction      | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo         |
-| cue.auction      | available | $4.99     | —             | medium         | low    | 3      | name.com         |
-| happy.auction    | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| apt.auction      | premium   | $242      | $242          | low            | low    | 3      | namesilo         |
-| did.auction      | available | $4.99     | —             | high           | low    | 3      | name.com         |
-| super.auction    | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc      |
-| bus.auction      | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| ear.auction      | available | $4.99     | —             | high           | low    | 3      | name.com         |
-| triad.auction    | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC |
-| gym.auction      | premium   | $250      | —             | high           | low    | 3      | name.com         |
-| eve.auction      | available | $4.99     | —             | high           | medium | 3      | name.com         |
-| success.auction  | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
-| lot.auction      | premium   | $500      | —             | medium         | low    | 3      | name.com         |
-| flu.auction      | available | $4.99     | —             | medium         | low    | 3      | name.com         |
-| election.auction | resell    | —         | —             | high           | low    | 8      | Porkbun LLC      |
-| baby.auction     | premium   | $242      | $242          | high           | low    | 4      | namesilo         |
-| had.auction      | available | $4.99     | —             | high           | low    | 3      | name.com         |
-| city.auction     | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| abo.auction     | available | $4.99     | $52.99        | high           | low    | 3      | name.com         |
+| tel.auction     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| ads.auction     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo         |
+| aft.auction     | available | $4.99     | $52.99        | high           | low    | 3      | name.com         |
+| bets.auction    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| bar.auction     | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| cnn.auction     | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| phone.auction   | resell    | —         | —             | high           | low    | 5      | Epik LLC         |
+| bus.auction     | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| cue.auction     | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| super.auction   | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
+| gym.auction     | premium   | $250      | —             | high           | low    | 3      | name.com         |
+| dad.auction     | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| triad.auction   | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| job.auction     | premium   | $1,250    | —             | high           | low    | 3      | name.com         |
+| did.auction     | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| bargain.auction | resell    | —         | —             | high           | low    | 7      | Porkbun LLC      |
+| lot.auction     | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| die.auction     | available | $4.99     | —             | high           | low    | 3      | name.com         |
+| cricket.auction | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,800 live domains                        |
+| 1,000-row public sample | 32,495 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AUCTION One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
