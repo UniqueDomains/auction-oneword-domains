@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 a4f8b15b-aa73-4685-9dee-0bd8873c5c2b,chemical.auction,available,36.99,36.99,high,low,8,namesilo,,,08/09/2026 15:30
 a196b63a-0783-4e7a-be02-b6ba7c6b3273,princely.auction,available,4.99,52.99,high,low,8,name.com,,,14/08/2026 01:00
-65e46f2e-c33d-4ff4-b387-5e005a27e698,riyadh.auction,premium,118.8,118.8,high,low,6,namesilo,,,
+65e46f2e-c33d-4ff4-b387-5e005a27e698,riyadh.auction,premium,118.8,118.8,high,low,6,namesilo,,,29/09/2026 06:50
 c2e31a58-5e8d-42da-abf3-cdb092dbf970,mari.auction,available,36.99,36.99,high,low,4,namesilo,,,28/09/2026 01:39
 558da120-c103-4310-be6d-0f40384a0843,punctured.auction,available,36.99,36.99,medium,low,9,namesilo,,,08/09/2026 16:56
 96bf264a-c584-49d7-835a-7557f622a64b,locke.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 08:02
@@ -23,19 +23,20 @@ d8d47ab4-71e8-4c4a-92de-7a0dc866c480,formalise.auction,available,4.99,,high,low,
 7b53a25c-25bf-4b6e-82ff-b144d29ecfc9,unimpeded.auction,available,36.99,36.99,medium,low,9,namesilo,,,12/09/2026 13:10
 1f7a45d9-eb89-45e1-9213-2e95ca99138c,errant.auction,available,4.99,52.99,high,low,6,name.com,,,17/08/2026 12:44
 3ffea890-28b9-4fa8-a665-c0d5e45716e2,fifth.auction,available,4.99,52.99,high,low,5,name.com,,,
-cb8d6246-c5ff-49ea-9074-ffdf036f3d34,greeks.auction,available,28.2,28.2,medium,low,6,cloudflare,,,28/09/2026 22:45
+cb8d6246-c5ff-49ea-9074-ffdf036f3d34,greeks.auction,available,28.2,28.2,high,low,6,cloudflare,,,28/09/2026 22:45
+878c453e-3417-47fe-a588-5a0b3863b47d,assemblages.auction,available,28.2,28.2,low,low,11,cloudflare,,,29/09/2026 05:48
 1fa40917-0abd-41c7-8538-7d19049e33a6,covariant.auction,available,4.99,52.99,medium,low,9,name.com,,,13/08/2026 04:05
 6772f7c3-4d1b-42d8-bda3-2ec40ef8eeca,mugwump.auction,available,4.99,52.99,medium,low,7,name.com,,,22/08/2026 02:43
 fae686d8-f079-4541-bcfe-24788625fb58,terrain.auction,available,3,30.18,high,low,7,dynadot,,,28/09/2026 20:36
-ce2d7336-34b4-42f8-8732-440e5feca270,snore.auction,available,4.99,,medium,low,5,name.com,,,
+ce2d7336-34b4-42f8-8732-440e5feca270,snore.auction,available,4.99,,high,low,5,name.com,,,
 0d5bd609-c2f2-49d8-b3fe-c052d492a6ad,craggy.auction,available,4.99,52.99,medium,low,6,name.com,,,13/08/2026 04:44
 1593d1c5-32ef-4905-99f6-7d77d845e219,towed.auction,available,4.99,,medium,low,5,name.com,,,
 d64a00bd-157f-477a-9a7f-9333d2d1a075,solemn.auction,available,4.99,52.99,high,low,6,name.com,,,14/08/2026 22:33
 c59a5b81-5414-4c13-97ff-979398af4952,speedup.auction,available,4.99,,high,low,8,name.com,,,
 2f4b8c44-f81b-419b-a551-a8d571711f50,aphesis.auction,available,38.98,46.98,medium,low,7,namecheap,,,19/09/2026 16:55
 db993932-ee19-406a-aab2-0641a9422c8e,yowl.auction,available,36.99,36.99,medium,low,4,namesilo,,,23/09/2026 06:24
-820a9c3e-2723-4f01-bc01-ea7036766232,gandhi.auction,available,4.99,,high,low,6,name.com,,,
-198bc709-c302-409b-b2c4-3e551ee32e29,police.auction,premium,500,,high,low,6,name.com,,,
+820a9c3e-2723-4f01-bc01-ea7036766232,gandhi.auction,available,36.99,36.99,high,low,6,namesilo,,,29/09/2026 20:38
+198bc709-c302-409b-b2c4-3e551ee32e29,police.auction,premium,500,,high,low,6,name.com,,,29/09/2026 11:14
 b2200176-f167-4fd4-a568-5e91d14aeb49,tilted.auction,available,4.99,52.99,high,low,6,name.com,,,07/08/2026 13:29
 40042999-827e-4597-b8b0-26f4539ca6a3,branch.auction,available,28.2,28.2,high,low,6,cloudflare,,,29/09/2026 03:57
 92aae7ae-bc21-4957-9377-ebab8407e3e7,parental.auction,available,36.99,36.99,high,low,8,namesilo,,,08/09/2026 01:14
@@ -55,9 +56,10 @@ aef74ea1-5088-4dc5-83d5-4cdb57d176c8,alcyone.auction,available,4.99,52.99,medium
 cfaef88f-77a2-4e7d-a7ac-6af37f2c0476,archil.auction,available,38.98,46.98,medium,low,6,namecheap,,,20/09/2026 02:06
 096fd675-5077-4d22-afd3-01b157c3e5b9,collarbone.auction,available,4.99,,medium,low,11,name.com,,,
 cdb6485e-af13-4ebc-915a-3601d1624d77,informative.auction,available,4.99,,high,low,11,name.com,,,
-726be170-2009-4a92-bf1d-5c5c08facaef,conventional.auction,available,38.98,46.98,medium,low,12,namecheap,,,28/09/2026 11:12
+726be170-2009-4a92-bf1d-5c5c08facaef,conventional.auction,available,38.98,46.98,high,low,12,namecheap,,,28/09/2026 11:12
 625024e8-1ec0-46b9-9e44-3fa5d47cffa8,leaded.auction,available,4.99,52.99,medium,low,6,name.com,,,22/08/2026 21:42
 5fa12078-f9d8-4957-870a-05b7245a7ddb,frictional.auction,available,4.99,52.99,medium,low,10,name.com,,,18/08/2026 15:28
+adcb8744-ccc5-4191-9001-d0cf7382a9ef,trondheim.auction,available,38.98,46.98,high,low,9,namecheap,,,29/09/2026 13:33
 45ac12a1-eba0-46b6-a64b-90405fe97b9e,worst.auction,available,28.2,28.2,medium,low,5,cloudflare,,,28/09/2026 10:59
 85c24ae7-e87b-48d9-936c-eb6cadf8609a,seriously.auction,available,36.99,36.99,medium,low,9,namesilo,,,28/09/2026 13:17
 ed922a98-9b33-4375-81db-b14540bf03c1,trouble.auction,available,36.99,36.99,high,low,7,namesilo,,,24/09/2026 07:29
@@ -75,7 +77,7 @@ d0d091a0-bb9d-4233-879a-740cd0f057f4,amanuensis.auction,available,36.99,36.99,me
 d2e9e588-63e4-4ab7-82d4-83030f082dbd,confuse.auction,available,4.99,,high,low,7,name.com,,,
 c0276bae-9d36-4520-afa7-415565b9ecae,unredeemed.auction,available,38.98,46.98,medium,low,10,namecheap,,,12/09/2026 17:55
 66e6b98e-9e93-4bae-a3a8-67d51feaf2b3,presents.auction,available,4.99,52.99,high,low,8,name.com,,,08/09/2026 04:30
-55f360d7-580f-43a5-b10b-8f26752de0f2,sinuous.auction,available,36.99,36.99,medium,low,7,namesilo,,,10/09/2026 08:38
+55f360d7-580f-43a5-b10b-8f26752de0f2,sinuous.auction,available,36.99,36.99,high,low,7,namesilo,,,10/09/2026 08:38
 b8764820-acc9-4441-8c44-ef190b3bf2db,guadalajara.auction,premium,,,medium,low,11,,,,28/09/2026 07:53
 7261be74-6914-47e1-9b6a-c166412b184a,jamie.auction,available,38.98,46.98,high,low,5,namecheap,,,25/09/2026 17:50
 6221ca12-ddea-448e-8384-f5e42e04b02f,carnal.auction,available,4.99,52.99,high,low,6,name.com,,,
@@ -84,13 +86,15 @@ b8764820-acc9-4441-8c44-ef190b3bf2db,guadalajara.auction,premium,,,medium,low,11
 cb25c7bb-1622-4a50-b712-a4467c7d648d,prostate.auction,available,4.99,52.99,high,low,8,name.com,,,09/09/2026 03:47
 d43a2261-8429-42a1-ba50-b326e6ecd6e7,buff.auction,available,4.99,52.99,high,low,4,name.com,,,11/08/2026 07:48
 cd0041ef-8289-4854-a5bd-710433fcc32b,clot.auction,available,4.99,52.99,medium,low,4,name.com,,,12/08/2026 13:36
+14b77648-e356-4f82-8f87-52d5d1869ef1,meditation.auction,available,29.18,29.18,high,low,10,spaceship,,,29/09/2026 07:35
+b8da32cb-cf3b-4d8d-85b9-204b0cab5b83,stride.auction,available,3.09,29.35,high,low,6,porkbun,,,29/09/2026 08:09
 67184c8d-7caa-4499-a67d-f4bc79bc7f44,changeless.auction,available,4.99,52.99,medium,low,10,name.com,,,12/08/2026 01:58
 23149824-4dbc-4db8-bf95-86f0d2d15c01,unmade.auction,available,36.99,36.99,medium,low,6,namesilo,,,12/09/2026 15:15
 3c00919c-e03c-4450-a624-5ac9809b14e0,felted.auction,available,4.99,52.99,medium,low,6,name.com,,,18/08/2026 01:00
 b02805a4-fdc7-44d8-895e-33270ea583c5,axil.auction,available,36.99,36.99,high,low,4,namesilo,,,21/09/2026 10:22
 2a4a541a-41e9-4a9d-9b60-5569fc04552d,planes.auction,premium,260,260,high,low,6,namecheap,,,17/09/2026 03:50
 8ec59912-4535-4157-8e68-dbdf607f1a41,floodlit.auction,available,4.99,52.99,medium,low,8,name.com,,,18/08/2026 08:47
-3be6641b-f0cf-4a18-b227-7b05b5750efe,burt.auction,available,38.98,46.98,medium,low,4,namecheap,,,25/09/2026 03:54
+3be6641b-f0cf-4a18-b227-7b05b5750efe,burt.auction,available,38.98,46.98,high,low,4,namecheap,,,25/09/2026 03:54
 08802935-d050-4ff4-ae09-6812c0478fda,cleave.auction,available,36.99,36.99,medium,low,6,namesilo,,,24/09/2026 15:43
 4f65c309-73de-4c46-8af9-9117e5e649e5,beltway.auction,available,36.99,36.99,high,low,7,namesilo,,,23/09/2026 07:15
 342b5730-fe27-4a11-b3a9-118d52cbbe40,dijon.auction,available,36.99,36.99,high,low,5,namesilo,,,24/09/2026 22:19
@@ -104,17 +108,19 @@ b52f3691-347e-4182-91b2-fc991c51257e,vertical.auction,available,36.99,36.99,high
 3d539f1d-96f7-430d-b3dc-fd9555a50d0a,vehicular.auction,available,36.99,36.99,medium,low,9,namesilo,,,13/09/2026 01:48
 177972bd-d841-4c1a-af5a-06e7420ca204,penrose.auction,available,38.98,46.98,medium,low,7,namecheap,,,29/09/2026 04:22
 ea10fcf2-bc44-4270-9670-ba55bc93dff2,sexiness.auction,available,4.99,52.99,high,low,8,name.com,,,18/09/2026 16:14
-a5eb86f4-a587-4cad-a108-351dbb093125,sargent.auction,available,36.99,36.99,medium,low,7,namesilo,,,27/09/2026 04:36
-4aa81a20-78c6-47e6-bfde-c242c745c8bc,stink.auction,available,4.99,,high,low,5,name.com,,,
+a5eb86f4-a587-4cad-a108-351dbb093125,sargent.auction,available,36.99,36.99,high,low,7,namesilo,,,27/09/2026 04:36
+4aa81a20-78c6-47e6-bfde-c242c745c8bc,stink.auction,available,28.2,28.2,high,low,5,cloudflare,,,29/09/2026 19:15
 98391851-929b-4704-b174-95c3e8740967,mahmud.auction,available,36.99,36.99,medium,low,6,namesilo,,,28/09/2026 22:18
 2ca08283-c79e-411c-b70b-649a3e45beed,walton.auction,available,38.98,46.98,high,low,6,namecheap,,,25/09/2026 05:07
 a9152f4a-615c-4bdb-bdd5-8454872b2f1c,sonant.auction,available,4.99,52.99,medium,low,6,name.com,,,10/09/2026 14:08
+9428a001-ad94-412b-b371-aa2a91c154b4,stripper.auction,available,36.99,36.99,high,low,8,namesilo,,,29/09/2026 06:42
 f52a1d1b-7b4c-457d-b5ad-14483738ee92,kimberley.auction,available,36.99,36.99,medium,low,9,namesilo,,,28/09/2026 19:38
-785643e8-6d63-43f2-a7bd-052321c24631,follower.auction,available,4.99,,high,low,8,name.com,,,
-b31d5a61-1c80-44d9-b35e-9e97d8979db9,biting.auction,available,4.99,52.99,medium,low,6,name.com,,,08/08/2026 16:41
+785643e8-6d63-43f2-a7bd-052321c24631,follower.auction,available,28.2,28.2,high,low,8,cloudflare,,,29/09/2026 19:39
+b31d5a61-1c80-44d9-b35e-9e97d8979db9,biting.auction,available,4.99,52.99,high,low,6,name.com,,,08/08/2026 16:41
+3a83831b-ec0b-44be-b6a3-2ce5e234e0ff,brabant.auction,available,28.2,28.2,high,low,7,cloudflare,,,29/09/2026 08:28
 f0e20caa-1317-44fb-9095-831ccb8dfbd7,adaxial.auction,available,4.99,52.99,medium,low,7,name.com,,,
 000d1861-bb90-47d2-b377-e694dfc3d107,abaya.auction,available,36.99,36.99,medium,low,5,namesilo,,,16/09/2026 14:18
-42728e41-b1fc-4a09-8189-bbec589cc111,merit.auction,available,4.99,,high,low,5,name.com,,,
+42728e41-b1fc-4a09-8189-bbec589cc111,merit.auction,available,29.18,29.18,high,low,5,spaceship,,,29/09/2026 14:06
 cc335fac-6894-44cf-8fc6-0e9a12b724be,underclass.auction,available,4.99,52.99,medium,low,10,name.com,,,12/09/2026 07:22
 ef48eb7d-14d9-4f21-8644-ef63f2f0d442,passionate.auction,available,36.99,36.99,high,low,10,namesilo,,,27/09/2026 02:53
 df64bf59-eedc-4cc9-9445-8487f6a2a94d,daniel.auction,available,3.09,29.35,high,medium,6,porkbun,,,29/09/2026 03:26
@@ -127,14 +133,15 @@ d475599c-3a09-4772-a58d-378ee761e647,elias.auction,available,4.99,,high,low,5,na
 a7f10987-500b-46c3-8d4d-8db341f5c72c,inspirational.auction,available,4.99,,high,low,13,name.com,,,
 67604dd1-059a-4025-9815-d733e08ce647,similitude.auction,available,36.99,36.99,medium,low,10,namesilo,,,18/09/2026 07:51
 d8c86720-ea70-4793-b7ea-c69372c5ac8e,beograd.auction,available,36.99,36.99,high,low,7,namesilo,,,23/09/2026 05:12
-3a0c886a-9b6b-4c5f-bfc7-59e8443efe0c,chime.auction,available,4.99,,high,low,5,name.com,,,
 7c6dc5e2-3149-4a50-b63b-399b17f93d17,laborer.auction,available,4.99,,high,low,7,name.com,,,
+9fb9e51f-fabc-4070-8684-4c668ecf0ca8,extermination.auction,available,36.99,36.99,medium,low,13,namesilo,,,29/09/2026 23:26
 d9eb170a-d742-4201-8c6f-8b2697477a82,ran.auction,available,36.99,36.99,high,low,3,namesilo,,,25/09/2026 12:35
 f7d02300-3d5c-4a00-897f-9b00b7cdc973,booklist.auction,available,4.99,,high,low,8,name.com,,,
 37c8008d-034d-4b0d-bc48-f0928d5e3003,aubrey.auction,available,36.99,36.99,high,low,6,namesilo,,,27/09/2026 07:41
-75c1d5b7-80b2-42c6-80f3-098589787a85,case.auction,available,4.99,,high,low,4,name.com,,,
-d13d3113-1c7b-4adc-8be4-4ecf879a9959,whopping.auction,available,4.99,52.99,medium,low,8,name.com,,,08/08/2026 13:14
+75c1d5b7-80b2-42c6-80f3-098589787a85,case.auction,available,36.99,36.99,high,low,4,namesilo,,,29/09/2026 07:33
+d13d3113-1c7b-4adc-8be4-4ecf879a9959,whopping.auction,available,4.99,52.99,high,low,8,name.com,,,08/08/2026 13:14
 d254ef61-f511-4f16-b581-7744434bf67c,thumbs.auction,available,36.99,36.99,medium,low,6,namesilo,,,18/09/2026 14:13
+381cb037-5d16-4202-880a-d9a1f24de4c7,tse.auction,available,36.99,36.99,high,low,3,namesilo,,,29/09/2026 09:12
 31df0347-722a-42ed-99bf-8c0543c0572d,meshugga.auction,available,4.99,52.99,low,low,8,name.com,,,24/08/2026 21:04
 e1f4b7d7-6b73-48ae-88d3-3fe1effecd0a,ying.auction,available,36.99,36.99,medium,low,4,namesilo,,,28/09/2026 11:38
 2abaeb0a-ecfd-4b27-ae8d-401db17ac8a3,exacting.auction,available,4.99,52.99,medium,low,8,name.com,,,17/08/2026 15:32
@@ -143,7 +150,7 @@ dae59e54-94e7-47f0-9dba-86cc6460fbe4,titulary.auction,available,4.99,52.99,mediu
 ee2db5ec-a37e-430d-9ed6-3deb16770a35,fractured.auction,available,36.99,36.99,medium,low,9,namesilo,,,28/09/2026 11:38
 b64f14c6-d36a-4c18-9e2b-8cd353b81c77,wheat.auction,available,36.99,36.99,high,low,5,namesilo,,,28/09/2026 06:34
 2bc01f9c-3dbc-4023-b584-e114f631920f,actable.auction,available,4.99,52.99,medium,low,7,name.com,,,
-0c425154-a20d-4091-97df-fb1c30a87955,auspices.auction,available,36.99,36.99,medium,low,8,namesilo,,,17/09/2026 12:16
+0c425154-a20d-4091-97df-fb1c30a87955,auspices.auction,available,36.99,36.99,high,low,8,namesilo,,,17/09/2026 12:16
 925b0813-690e-4ec1-a760-d5ded9507162,polar.auction,available,4.99,52.99,high,low,5,name.com,,,18/08/2026 21:06
 1b9ecb9b-7ee6-4383-aed5-8d3707f6048b,ardennes.auction,available,36.99,36.99,medium,low,8,namesilo,,,20/09/2026 03:09
 dc0f9e26-8e1b-4db2-b3a0-f631151f39bf,tobias.auction,available,4.99,52.99,high,low,6,name.com,,,27/09/2026 07:33
@@ -157,20 +164,22 @@ fdd2d517-4eb1-4704-94e7-1debc4a03cf4,mods.auction,available,4.99,,high,low,4,nam
 0481bd3f-da91-4cf2-88f3-62a1d057e335,ethel.auction,available,29.18,29.18,high,low,5,spaceship,,,28/09/2026 07:21
 c7a07a44-a4ef-4fed-943d-a1c7823af1ef,two.auction,available,3.09,29.35,high,low,3,porkbun,,,28/09/2026 12:14
 a508aa69-eef0-421f-a1da-be577379ec26,nodded.auction,available,38.98,46.98,medium,low,6,namecheap,,,18/09/2026 03:34
-684d81d6-69db-4556-a494-59f92d090233,lapp.auction,available,36.99,36.99,medium,low,4,namesilo,,,19/09/2026 15:44
+684d81d6-69db-4556-a494-59f92d090233,lapp.auction,available,36.99,36.99,high,low,4,namesilo,,,19/09/2026 15:44
 f27a2659-fcd2-4b5a-9624-59dd8a3024d8,lacing.auction,available,36.99,36.99,medium,low,6,namesilo,,,13/09/2026 11:13
 642faefa-1f06-40f8-811f-792210d8bb1a,elements.auction,premium,,,high,low,8,,,,28/09/2026 01:50
 2ce2540c-8ac6-49b1-acdc-798753b2661c,yvonne.auction,available,38.98,46.98,high,low,6,namecheap,,,28/09/2026 03:58
 f3411c2c-f2a4-4bd6-8130-894459d7c387,tricks.auction,available,38.98,46.98,medium,low,6,namecheap,,,25/09/2026 17:54
-ec30acb1-fc1c-454a-aa67-d88bb927877d,grammar.auction,available,4.99,,high,low,7,name.com,,,
+404fec73-ae23-4591-9866-acc63d3d45e4,withdrawing.auction,available,38.98,46.98,high,low,11,namecheap,,,29/09/2026 21:24
+ec30acb1-fc1c-454a-aa67-d88bb927877d,grammar.auction,available,3,30.18,high,low,7,dynadot,,,29/09/2026 21:08
 c6e5c6b4-368d-458a-ada6-b44ac76d85c7,bounty.auction,available,36.99,36.99,high,low,6,namesilo,,,24/09/2026 07:35
 d606041d-184d-4d58-a9fc-2d69ebb6038a,clashing.auction,available,4.99,52.99,medium,low,8,name.com,,,12/08/2026 09:40
 337bb1f9-9aac-4f62-94eb-c0cadec0683b,contaminated.auction,available,4.99,,medium,low,12,name.com,,,
 93f3bcb0-4366-4bc9-95b7-f5a05f9a64d1,author.auction,available,36.99,36.99,high,low,6,namesilo,,,21/09/2026 05:09
 6bf5275e-549f-4fe4-9fdd-4b356921066f,tunes.auction,available,29.18,29.18,medium,low,5,spaceship,,,28/09/2026 18:03
 f17b26df-8fc6-420d-98b9-8f3c4afa7420,businesslike.auction,available,36.99,36.99,medium,low,12,namesilo,,,29/09/2026 02:32
-fffe3d78-1da6-40c1-bd76-2e9f5d83b451,answers.auction,available,38.98,46.98,medium,low,7,namecheap,,,25/09/2026 18:18
-032744c7-9a87-4556-920f-14be9c69e6ea,gratefully.auction,available,38.98,46.98,medium,low,10,namecheap,,,13/09/2026 20:28
+eb1f2d1a-91e6-4aa6-a9fd-a5e18c969a05,silvio.auction,available,36.99,36.99,medium,low,6,namesilo,,,30/09/2026 00:38
+fffe3d78-1da6-40c1-bd76-2e9f5d83b451,answers.auction,available,38.98,46.98,high,low,7,namecheap,,,25/09/2026 18:18
+032744c7-9a87-4556-920f-14be9c69e6ea,gratefully.auction,available,38.98,46.98,high,low,10,namecheap,,,13/09/2026 20:28
 459fb86a-4e2f-42f1-bc09-8c7c9fcf553a,covered.auction,available,38.98,46.98,high,low,7,namecheap,,,24/09/2026 00:50
 16c99237-b55c-4c3b-ace1-72dc26a38452,obamacare.auction,available,4.99,,medium,low,10,name.com,,,
 fe41c4ef-033b-4720-869e-866ebc5a5713,proper.auction,available,38.98,46.98,high,low,6,namecheap,,,27/09/2026 07:40
@@ -178,11 +187,12 @@ f7280c1d-8a8d-4e5f-a5f2-c2ba4320899c,spaceman.auction,available,38.98,46.98,high
 62609fc0-6016-43f6-a364-8dbb9f50fec3,cod.auction,premium,260,260,high,low,3,namecheap,,,23/09/2026 14:56
 a9935e0d-dd88-4bb1-974f-59aba3a21a31,anabaptist.auction,available,36.99,36.99,medium,low,10,namesilo,,,19/09/2026 00:49
 420880d8-28a7-4d33-8d12-3fe44e01553e,basilicata.auction,available,36.99,36.99,medium,low,10,namesilo,,,22/09/2026 10:50
+84fc9cd6-41dc-4a42-9762-82d641b6bdd1,vines.auction,available,36.99,36.99,medium,low,5,namesilo,,,29/09/2026 23:04
 06591061-ee44-4028-976a-303cc460de98,pussy.auction,available,36.99,36.99,high,medium,5,namesilo,,,27/09/2026 08:37
 d1d7a640-4d38-414f-a298-f3a8ab954d3d,systemic.auction,available,36.99,36.99,high,low,8,namesilo,,,11/09/2026 06:46
 9bab9350-0a5a-4fac-b24c-453a135402f9,ascendency.auction,available,36.99,36.99,high,low,10,namesilo,,,20/09/2026 13:06
 9855d517-7e57-4c0d-8b38-eb61aa749d22,pairs.auction,available,36.99,36.99,medium,low,5,namesilo,,,16/09/2026 14:58
-e75cc496-9e35-4639-8708-c018d3104ba2,mansfield.auction,available,36.99,36.99,medium,low,9,namesilo,,,25/09/2026 08:08
+e75cc496-9e35-4639-8708-c018d3104ba2,mansfield.auction,available,36.99,36.99,high,low,9,namesilo,,,25/09/2026 08:08
 e8beb9ca-f9ce-4e22-af2c-15e9bf401b7a,corroded.auction,available,4.99,52.99,medium,low,8,name.com,,,13/08/2026 02:05
 0f02c2c2-020d-465f-b846-d2ba34ce51b5,chthonian.auction,available,4.99,52.99,medium,low,9,name.com,,,12/08/2026 07:26
 bfb7e6d2-535c-4098-b622-d20460357932,oaten.auction,available,36.99,36.99,medium,low,5,namesilo,,,03/09/2026 23:28
@@ -193,12 +203,12 @@ e41818da-6627-4572-b75d-4c5d966c5f37,decelerate.auction,available,36.99,36.99,me
 0e87c930-6ea8-4d18-ab16-abec061b6780,esters.auction,available,36.99,36.99,low,low,6,namesilo,,,28/09/2026 13:25
 3f7e6b74-7b96-4a2e-8c1a-0fc7fd2af46e,medial.auction,available,4.99,52.99,high,low,6,name.com,,,24/08/2026 18:51
 a4e4be8e-7d09-45fc-b00d-d62552c50839,begotten.auction,available,4.99,52.99,medium,low,8,name.com,,,09/08/2026 09:11
-f7f04182-2644-45d9-9cd6-498e9f13dadb,cement.auction,available,4.99,,high,low,6,name.com,,,
+f7f04182-2644-45d9-9cd6-498e9f13dadb,cement.auction,available,36.99,36.99,high,low,6,namesilo,,,29/09/2026 07:46
 63d1fc52-9d5c-4cc6-91a3-2f2ba2d529e9,myspace.auction,available,,,high,medium,7,,,,
 075d144a-fe73-4a32-9d94-0c6b7200f05e,ancestors.auction,available,28.2,28.2,medium,low,9,cloudflare,,,28/09/2026 08:45
 9dbe5753-f0d6-4bb7-89fd-d70f6b640576,pogge.auction,available,38.98,46.98,medium,low,5,namecheap,,,17/09/2026 19:01
-0c614a0d-3b69-4e09-8916-8f066c9eb032,attrition.auction,available,36.99,36.99,medium,low,9,namesilo,,,21/09/2026 02:20
-3c21927b-6105-44c2-8673-d653372f6257,apanage.auction,available,36.99,36.99,medium,low,7,namesilo,,,19/09/2026 16:12
+0c614a0d-3b69-4e09-8916-8f066c9eb032,attrition.auction,available,36.99,36.99,high,low,9,namesilo,,,21/09/2026 02:20
+3c21927b-6105-44c2-8673-d653372f6257,apanage.auction,available,36.99,36.99,high,low,7,namesilo,,,19/09/2026 16:12
 f18ef403-4455-4c83-8c3f-968eecde8856,caddish.auction,available,4.99,52.99,low,low,7,name.com,,,11/08/2026 12:43
 3902ddf5-9aeb-4822-9fe7-0ad641021ac1,baritone.auction,available,4.99,52.99,medium,low,8,name.com,,,08/08/2026 19:36
 cf4ebab1-d3ac-4d9c-9786-722f12f0c645,gregg.auction,available,4.99,,high,low,5,name.com,,,
@@ -208,7 +218,7 @@ eb52980c-b121-49c9-b89b-847b63821fe6,decreased.auction,available,4.99,52.99,medi
 92ca1839-180e-4c9b-bd46-a4ca08ce7c3b,muhammad.auction,available,3,30.18,medium,low,8,dynadot,,,28/09/2026 13:59
 3df8c602-7f07-4238-a05c-cb0b253ebb3b,septuple.auction,available,36.99,36.99,medium,low,8,namesilo,,,10/09/2026 04:23
 13fd359c-7d58-47d5-b00b-9512bc9e436b,ukrainian.auction,available,36.99,36.99,high,low,9,namesilo,,,11/09/2026 22:41
-2034b3f2-8e80-4538-b107-2b0176e818e8,denise.auction,available,36.99,36.99,medium,low,6,namesilo,,,25/09/2026 14:19
+2034b3f2-8e80-4538-b107-2b0176e818e8,denise.auction,available,36.99,36.99,high,low,6,namesilo,,,25/09/2026 14:19
 331437ff-5b4c-4d5b-8488-8a81d2c018d4,wyeth.auction,available,36.99,36.99,medium,low,5,namesilo,,,19/09/2026 04:48
 50928dee-a0e8-49bd-b233-19303225bb3b,pallid.auction,available,36.99,36.99,medium,low,6,namesilo,,,04/09/2026 23:51
 5ea1a736-8536-4070-9ec7-7671f5120e9d,arsine.auction,available,36.99,36.99,medium,low,6,namesilo,,,20/09/2026 09:42
@@ -217,14 +227,19 @@ c9aa0946-af5e-47cf-b2e2-70279c866bc4,machine.auction,premium,102.67,102.67,high,
 1f743915-ce56-4e7e-bb56-a028378c02d6,cook.auction,available,36.99,36.99,high,low,4,namesilo,,,27/09/2026 10:07
 abdad1d6-ee44-4aee-af75-2124eef279d1,unsaved.auction,available,38.98,46.98,medium,low,7,namecheap,,,12/09/2026 17:57
 705b3541-480f-48fb-8cc6-7a19996df6f6,tuesday.auction,available,4.99,,high,low,7,name.com,,,
+8f950178-3062-496e-affc-90d706c7ce23,migration.auction,available,3,30.18,high,low,9,dynadot,,,29/09/2026 19:39
 0fed98ae-0570-49dc-a32f-2448cb0d122b,charabanc.auction,available,36.99,36.99,medium,low,9,namesilo,,,21/09/2026 05:58
 322b4c69-ed07-4a93-bd9b-a4d6f5869559,laughter.auction,available,4.99,,high,low,8,name.com,,,
-307e7566-4de0-40f5-a2b9-6866cd393c19,felon.auction,available,4.99,52.99,medium,low,5,name.com,,,13/08/2026 06:25
+307e7566-4de0-40f5-a2b9-6866cd393c19,felon.auction,available,4.99,52.99,high,low,5,name.com,,,13/08/2026 06:25
 9f4755bc-6b4b-4f85-a5af-86dd43bd09c3,afield.auction,available,38.98,46.98,medium,low,6,namecheap,,,13/09/2026 17:59
+c2964572-53a5-4950-83ea-e95edcd1c4a7,fireman.auction,available,29.18,29.18,high,low,7,spaceship,,,29/09/2026 06:56
+71f2e213-d3d0-4f61-b2b8-bec2c0138466,frankel.auction,available,36.99,36.99,high,low,7,namesilo,,,29/09/2026 15:47
+adee8b3b-e3f4-4704-8107-618247d6abd2,ozone.auction,available,36.99,36.99,high,low,5,namesilo,,,29/09/2026 07:48
 f7ba24f6-5b9c-4a4e-878b-7b2eb740f3e4,rules.auction,available,4.99,,high,low,5,name.com,,,
-c0fee499-ee2e-4d3d-a41a-9dcf96b205f9,videos.auction,premium,1107,1107,medium,low,6,namesilo,,,28/09/2026 03:36
+c0fee499-ee2e-4d3d-a41a-9dcf96b205f9,videos.auction,premium,1107,1107,high,low,6,namesilo,,,28/09/2026 03:36
 9d32c2eb-0d9f-48a9-8058-5d4d4ac82e67,aga.auction,available,36.99,36.99,high,low,3,namesilo,,,17/09/2026 15:58
 f62eff52-e285-4b94-93b3-519f0ff471e8,suspects.auction,available,36.99,36.99,medium,low,8,namesilo,,,27/09/2026 03:17
+763104fa-3bf3-4bab-b2b3-8df6c1ed8ecb,budapest.auction,premium,108.9,108.9,high,low,8,dynadot,,,29/09/2026 11:48
 aa6842c1-06ee-49a2-a96a-443a31e13bfb,latticed.auction,available,4.99,52.99,medium,low,8,name.com,,,22/08/2026 08:06
 f24f00ef-c93e-4d58-b22f-17ab80217304,musa.auction,available,28.2,28.2,high,low,4,cloudflare,,,28/09/2026 05:49
 02599498-a970-49f0-89b2-cb9493bac1de,uniate.auction,available,36.99,36.99,medium,low,6,namesilo,,,12/09/2026 12:42
@@ -232,26 +247,28 @@ b034c319-ec4e-458a-b64b-44359870c35c,airmailer.auction,available,36.99,36.99,med
 2c670d5a-da0d-4aa4-8cca-cd7746517285,neodymium.auction,available,38.98,46.98,high,low,9,namecheap,,,20/09/2026 23:22
 0c9407a8-5d48-4756-883f-e5b3ffe072ba,laureate.auction,available,4.99,52.99,high,low,8,name.com,,,22/08/2026 20:57
 88a3a6bd-c8aa-4582-ac7a-c368d3a0f884,idempotent.auction,available,4.99,52.99,medium,low,10,name.com,,,21/08/2026 18:03
-18cfbdfa-fe29-4b9b-ba5b-7cea2bcf2045,food.auction,premium,1107,1107,high,medium,4,namesilo,,,28/09/2026 02:44
+18cfbdfa-fe29-4b9b-ba5b-7cea2bcf2045,food.auction,premium,1300,1300,high,medium,4,namecheap,,,30/09/2026 01:26
 7b81b662-30e5-4a60-ac56-7f1435ec93f6,opera.auction,available,29.18,29.18,high,low,5,spaceship,,,28/09/2026 10:47
 c7d963cb-0c00-4c4a-b982-09736898d2a7,coffeecakes.auction,available,36.99,36.99,medium,low,11,namesilo,,,21/09/2026 00:59
 6d51198f-5fc3-49fb-a080-cc85a25a4f75,unchained.auction,available,36.99,36.99,high,low,9,namesilo,,,12/09/2026 04:54
 07046cc7-1259-4c68-b6a2-5ddf658909c8,wines.auction,available,36.99,36.99,high,low,5,namesilo,,,18/09/2026 10:23
 082667e7-c7b2-4b0c-8242-4e0d8319ec9e,athyrium.auction,available,38.98,46.98,medium,low,8,namecheap,,,20/09/2026 21:22
 1d502251-b9de-4a70-8604-6ffade9c9ffc,gorgeous.auction,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 22:48
+5901c337-f5c7-484f-a056-076fb7c2b51b,rounding.auction,available,36.99,36.99,high,low,8,namesilo,,,29/09/2026 13:53
 757660df-68f4-46d0-8001-ace01c3a7a84,mussy.auction,available,4.99,52.99,medium,low,5,name.com,,,24/08/2026 21:24
 41f4f6e2-9f6e-4f73-844d-512a56a7f647,beatnik.auction,available,36.99,36.99,high,low,7,namesilo,,,22/09/2026 21:43
 8a7271f0-8a0c-4b0a-abcf-fa2243d8b0f1,betrayed.auction,available,4.99,52.99,medium,low,8,name.com,,,26/09/2026 03:08
-9ee24f31-ae16-45dc-a016-7a5b47936445,armature.auction,available,36.99,36.99,medium,low,8,namesilo,,,20/09/2026 06:32
-0fbccb83-3097-4856-bad9-9cd954518e98,chordal.auction,available,4.99,52.99,medium,low,7,name.com,,,12/08/2026 07:06
+ae7ec450-31d9-462c-90d1-2b102bf30f30,paramedics.auction,available,29.18,29.18,medium,low,10,spaceship,,,30/09/2026 00:40
+9ee24f31-ae16-45dc-a016-7a5b47936445,armature.auction,available,36.99,36.99,high,low,8,namesilo,,,20/09/2026 06:32
+0fbccb83-3097-4856-bad9-9cd954518e98,chordal.auction,available,4.99,52.99,high,low,7,name.com,,,12/08/2026 07:06
 bf08afd4-414e-4b32-ac9e-56b426f4379f,agrimonia.auction,available,38.98,46.98,medium,low,9,namecheap,,,17/09/2026 19:28
-78dee14a-df97-4d83-8d6d-b1fc3ad93d26,training.auction,available,38.98,46.98,high,low,8,namecheap,,,25/09/2026 03:18
+78dee14a-df97-4d83-8d6d-b1fc3ad93d26,training.auction,available,28.2,28.2,high,low,8,cloudflare,,,29/09/2026 06:10
 957795cb-b608-49fb-a411-34c2596ad3b5,injectable.auction,available,4.99,52.99,high,low,10,name.com,,,22/08/2026 05:36
 18cfd290-41db-4f52-9675-5d58199d086a,usernames.auction,available,38.98,46.98,medium,low,9,namecheap,,,20/09/2026 06:18
 5776c857-a923-48b5-beac-a71f3b401d27,metier.auction,available,4.99,52.99,high,low,6,name.com,,,18/08/2026 12:29
 44087502-3e64-4eaa-b0db-5b271c09dd02,tactual.auction,available,4.99,52.99,medium,low,7,name.com,,,21/08/2026 00:04
 f247cfc3-3f56-4e39-8025-9f633ad464f4,risky.auction,available,4.99,52.99,medium,low,5,name.com,,,21/08/2026 01:43
-88173cef-23e9-4272-95dc-7018ade588ff,waldo.auction,available,29.18,29.18,medium,low,5,spaceship,,,27/09/2026 20:38
+88173cef-23e9-4272-95dc-7018ade588ff,waldo.auction,available,29.18,29.18,high,low,5,spaceship,,,27/09/2026 20:38
 8ad930eb-ed6d-499d-bbaf-a670f82e65b6,sneezing.auction,available,4.99,,medium,low,8,name.com,,,
 e8ae910c-98f0-42f3-a4ee-6f081c29653a,tangible.auction,available,36.99,36.99,high,low,8,namesilo,,,05/09/2026 00:10
 7ba7a28b-1751-4f8c-a04d-efed2d42ecab,phage.auction,available,36.99,36.99,medium,low,5,namesilo,,,21/09/2026 16:31
@@ -260,9 +277,11 @@ e8ae910c-98f0-42f3-a4ee-6f081c29653a,tangible.auction,available,36.99,36.99,high
 b343718b-bbf4-439b-baf9-ff3248a84f8b,compete.auction,available,4.99,,high,low,7,name.com,,,
 0b860930-491f-4afb-8631-d1371711e5af,shelton.auction,available,38.98,46.98,medium,low,7,namecheap,,,27/09/2026 01:50
 9c8aed26-992f-4ab5-9702-ed8dfa184727,crowded.auction,available,38.98,46.98,high,low,7,namecheap,,,24/09/2026 02:10
+369d3bdc-f5b4-4ad5-8ff2-a0aafa13eb19,welcomed.auction,available,28.2,28.2,high,low,8,cloudflare,,,29/09/2026 08:42
 fcc92c8e-0e75-42eb-ba64-a0ee20a469dc,heavenward.auction,available,4.99,52.99,medium,low,10,name.com,,,21/08/2026 02:31
-79b19768-da6e-44ce-9660-f13db9a070ad,fingered.auction,available,4.99,52.99,medium,low,8,name.com,,,18/08/2026 04:53
-85f10a22-ae19-466f-b637-01c40478b11f,airedale.auction,available,36.99,36.99,medium,low,8,namesilo,,,17/09/2026 23:08
+79b19768-da6e-44ce-9660-f13db9a070ad,fingered.auction,available,4.99,52.99,high,low,8,name.com,,,18/08/2026 04:53
+c9840b3a-db07-448b-b9b5-e281b7620771,relativity.auction,available,3,30.18,high,low,10,dynadot,,,29/09/2026 12:09
+85f10a22-ae19-466f-b637-01c40478b11f,airedale.auction,available,36.99,36.99,high,low,8,namesilo,,,17/09/2026 23:08
 e5908713-a0d5-4be9-952b-8082ff922dcc,miserable.auction,available,4.99,52.99,high,low,9,name.com,,,
 967d58df-14bc-4d19-87b0-e8d6d6d04d3c,groovy.auction,available,,,high,low,6,,,,
 466786c7-1144-46cb-ac22-54199521c0a0,category.auction,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 13:09
@@ -283,19 +302,23 @@ d06c6314-40a8-479a-a860-192c19d81e58,vagile.auction,available,36.99,36.99,low,lo
 c56cb360-fb44-4d00-893c-c10410f50362,ascaris.auction,available,36.99,36.99,medium,low,7,namesilo,,,20/09/2026 13:03
 fd73d00f-c523-4a14-95cb-435c689bebfe,prominence.auction,available,38.98,46.98,high,low,10,namecheap,,,24/09/2026 11:05
 f5f028c8-47e8-4935-ac81-de22714f0835,mri.auction,available,36.99,36.99,high,low,3,namesilo,,,25/09/2026 23:30
+e904d2bd-9412-4d8b-9ec1-503af79899fb,problematic.auction,available,36.99,36.99,high,low,11,namesilo,,,29/09/2026 14:26
 d8557fbd-4661-4d04-adc3-8ae1cddb90ff,serpentine.auction,available,36.99,36.99,medium,low,10,namesilo,,,10/09/2026 04:45
 0dcbc52e-cfb1-49af-8e4d-2c552300dad1,wholesome.auction,available,36.99,36.99,high,low,9,namesilo,,,28/09/2026 10:32
-271cded1-e553-473c-a460-8feb63d009ae,hunted.auction,available,4.99,52.99,medium,low,6,name.com,,,21/08/2026 15:43
+271cded1-e553-473c-a460-8feb63d009ae,hunted.auction,available,4.99,52.99,high,low,6,name.com,,,21/08/2026 15:43
 aaea5f6e-495f-4179-90e0-909584e843cd,humanitarian.auction,available,28.2,28.2,high,low,12,cloudflare,,,28/09/2026 21:16
 173b851e-e9e4-4a47-8857-dedb52655b27,crashing.auction,available,36.99,36.99,medium,low,8,namesilo,,,28/09/2026 11:33
 1f18c3ac-7e7e-4051-90e9-5e67b543bb96,convention.auction,available,38.98,46.98,high,low,10,namecheap,,,03/09/2026 21:13
 d24ea11c-7622-44bb-81e4-e0101bc5f3d6,installation.auction,available,36.99,36.99,high,low,12,namesilo,,,29/09/2026 04:43
+afbb8b1b-e421-4d69-a372-b51b426b2bce,ludwig.auction,available,36.99,36.99,medium,low,6,namesilo,,,29/09/2026 05:16
 5cbf22b0-ec95-44a4-b422-c1c1adc6b58c,largest.auction,available,36.99,36.99,medium,low,7,namesilo,,,27/09/2026 21:38
 fcc791fd-6185-4ddf-bf1a-fce79f1ee028,plaguy.auction,available,4.99,52.99,medium,low,6,name.com,,,
+3b288967-c0fc-42ec-aa04-4b0376cc3232,glamorgan.auction,available,29.18,29.18,medium,low,9,spaceship,,,29/09/2026 21:59
 5e9c9310-a224-4e5a-bde3-c639876dd090,theoretically.auction,available,29.18,29.18,low,low,13,spaceship,,,28/09/2026 17:35
 1b8bfc42-b231-4fea-8351-7f8e16d0d3df,hahaha.auction,available,4.99,,high,low,6,name.com,,,
-326e63cc-237f-4328-bad1-8691f2917dbb,dads.auction,available,36.99,36.99,medium,low,4,namesilo,,,20/09/2026 10:27
+326e63cc-237f-4328-bad1-8691f2917dbb,dads.auction,available,36.99,36.99,high,low,4,namesilo,,,20/09/2026 10:27
 d9f27cb3-14c7-4659-975a-389a67c7bc7c,particular.auction,available,38.98,46.98,high,low,10,namecheap,,,24/09/2026 18:23
+ece66ce9-337c-41c5-8dde-9db0525eddcf,airports.auction,available,29.18,29.18,medium,low,8,spaceship,,,30/09/2026 00:31
 7514c3c4-50a3-44e9-a6a6-a46de7ce698c,baseboard.auction,available,36.99,36.99,medium,low,9,namesilo,,,22/09/2026 10:08
 aabd2f50-6de0-4d22-9434-cdc1c1804bf3,marius.auction,available,36.99,36.99,high,low,6,namesilo,,,28/09/2026 03:53
 d44611e5-0013-4d1e-9077-b3a1d982de24,rasping.auction,available,4.99,52.99,medium,low,7,name.com,,,20/08/2026 18:29
@@ -306,7 +329,7 @@ e7e3ebf0-7b2f-494b-ad37-c2728069f66f,mexican.auction,available,4.99,52.99,high,l
 be72b94c-7100-4ed0-a850-f0ebd5bec4e0,overstated.auction,available,4.99,52.99,medium,low,10,name.com,,,17/08/2026 15:36
 57d00dd3-204a-494f-93fb-3f5cb660b4ea,filipino.auction,available,4.99,52.99,high,low,8,name.com,,,18/08/2026 04:19
 a3f7cab4-4ace-4dbe-b1a4-76bcbb44eab3,complaining.auction,available,29.18,29.18,high,low,11,spaceship,,,27/09/2026 17:47
-ad549223-675f-4ce6-bcf0-0115fceea0ef,gifts.auction,premium,118.8,118.8,medium,low,5,namesilo,,,25/09/2026 17:25
+ad549223-675f-4ce6-bcf0-0115fceea0ef,gifts.auction,premium,118.8,118.8,high,low,5,namesilo,,,25/09/2026 17:25
 eb405447-5413-4325-8ada-8663a18f2b84,whereas.auction,available,4.99,,high,low,7,name.com,,,
 2862efe1-1f4c-4e50-b996-8baefaa6bf1a,barrio.auction,available,36.99,36.99,medium,low,6,namesilo,,,22/09/2026 08:38
 0cabc6ee-676a-46ae-834c-be75383e3bd3,pigheaded.auction,available,4.99,52.99,medium,low,9,name.com,,,11/08/2026 08:32
@@ -327,9 +350,11 @@ bb66b70a-de96-425e-a101-361105b3a0d9,possible.auction,available,36.99,36.99,high
 2961ad65-3b87-4660-aac7-0787949760d6,hotfoot.auction,available,36.99,36.99,high,low,7,namesilo,,,09/09/2026 19:44
 d15045d5-fe2e-478c-b3e0-db598149f115,adps.auction,available,36.99,36.99,medium,low,4,namesilo,,,17/09/2026 09:53
 0534fa3e-529a-4ff8-b252-67d2527b2976,rio.auction,premium,,,high,low,3,,,,28/09/2026 03:02
+61b82ba2-92c3-4d97-8401-3b5c08c3b864,hcl.auction,available,3,30.18,medium,low,3,dynadot,,,29/09/2026 17:21
 972e2107-07d5-45af-bb28-2b7521924f40,rapacious.auction,available,4.99,52.99,medium,low,9,name.com,,,15/08/2026 05:26
 1ba67d11-8311-441d-845b-5f1e85155c36,landon.auction,available,3,30.18,medium,low,6,dynadot,,,28/09/2026 22:03
 37e4a089-ed4f-43b8-b885-cf1ab257d8ab,threat.auction,available,4.99,,high,low,6,name.com,,,
+dfbb7f86-3cfb-4016-9577-dfb8c37d56e8,collaborate.auction,available,38.98,46.98,high,low,11,namecheap,,,29/09/2026 20:56
 2a474c8f-953f-4ed0-ace7-a83b77cf9556,radical.auction,available,4.99,52.99,high,low,7,name.com,,,08/08/2026 21:21
 028584a9-9640-4403-b02e-078ec2d17231,terrorist.auction,available,38.98,46.98,medium,low,9,namecheap,,,25/09/2026 10:50
 15d9fd73-ded4-4046-b673-349096fd02b4,cuneiform.auction,available,4.99,52.99,medium,low,9,name.com,,,13/08/2026 10:34
@@ -348,9 +373,10 @@ c4f4efc9-af3c-4bab-915a-e87795890242,velvetleaf.auction,available,38.98,46.98,me
 7f8d4bc2-c43c-414a-9f60-d5175b9ba87d,scourge.auction,available,4.99,52.99,medium,low,7,name.com,,,18/08/2026 06:16
 f6690559-f730-4eba-94bb-8e80a4b0a3be,forked.auction,available,4.99,52.99,high,low,6,name.com,,,09/08/2026 20:14
 d5f3d103-60f2-4e39-ae8c-6f3e8ea008ee,separate.auction,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 11:16
-60a57fa7-3c24-464b-9091-2cc79dc48f4d,annie.auction,available,38.98,46.98,medium,low,5,namecheap,,,25/09/2026 18:17
+60a57fa7-3c24-464b-9091-2cc79dc48f4d,annie.auction,available,38.98,46.98,high,low,5,namecheap,,,25/09/2026 18:17
 6c65928d-56db-436f-bff6-70dabe5a8341,pluses.auction,available,36.99,36.99,medium,low,6,namesilo,,,21/09/2026 02:09
 9db75330-3b22-4917-bc74-26072f122a7c,abounding.auction,available,4.99,52.99,high,low,9,name.com,,,
+c03e0d4b-ce7c-4e8d-a6ef-981c17a6057d,collects.auction,available,36.99,36.99,medium,low,8,namesilo,,,29/09/2026 17:04
 ea322774-33be-4ad5-b88d-ba4eef5c78e7,driven.auction,available,4.99,52.99,high,low,6,name.com,,,14/08/2026 19:34
 b67dc4c2-4be2-48d2-8cf0-b28232400626,badminton.auction,available,38.98,46.98,high,low,9,namecheap,,,21/09/2026 17:13
 6f4d82a6-ddc4-4f86-8c8e-6cbcf79c80a4,smoothed.auction,available,36.99,36.99,medium,low,8,namesilo,,,10/09/2026 12:07
@@ -363,12 +389,13 @@ ebf0955c-82cf-4fc0-93f7-42e1a6e34a14,apogee.auction,available,38.98,46.98,high,l
 9072e920-a01a-4e89-a182-3d7414993482,percentage.auction,available,28.2,28.2,high,low,10,cloudflare,,,28/09/2026 15:02
 69ad0c53-8e3a-406f-984b-6063aef6304e,about.auction,premium,1107,1107,high,low,5,namesilo,,,21/09/2026 14:03
 425037f3-0983-4c76-8164-2572b5b86961,important.auction,available,36.99,36.99,high,low,9,namesilo,,,22/09/2026 13:54
-6d2b4e51-11bb-4eb4-8238-834c8efc01bb,mata.auction,available,38.98,46.98,medium,low,4,namecheap,,,28/09/2026 21:09
+6d2b4e51-11bb-4eb4-8238-834c8efc01bb,mata.auction,available,38.98,46.98,high,low,4,namecheap,,,28/09/2026 21:09
 00cc203e-fae0-4f02-ba67-4d46fb683920,theorize.auction,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 17:19
+1f24aaea-f91a-4100-b77c-c76e86cd166b,moynihan.auction,available,29.18,29.18,medium,low,8,spaceship,,,29/09/2026 18:33
 09fa1c3d-bfce-4ef8-9650-c189dbda5dd5,several.auction,available,4.99,,high,low,7,name.com,,,
 48561c61-6a05-4a36-a2f2-15d3368d3dc7,somerset.auction,available,4.99,52.99,high,low,8,name.com,,,18/08/2026 08:27
 15b40cfe-bd82-4006-8ecd-74f375e99722,unrested.auction,available,38.98,46.98,medium,low,8,namecheap,,,12/09/2026 18:02
-309e2921-0cdd-4598-a4a4-4acf9fb5c5ad,cry.auction,available,4.99,,high,low,3,name.com,,,
+309e2921-0cdd-4598-a4a4-4acf9fb5c5ad,cry.auction,available,36.99,36.99,high,low,3,namesilo,,,29/09/2026 12:15
 cf5e8abb-7205-4dfd-bbde-fa86b67f3cdb,axial.auction,available,36.99,36.99,high,low,5,namesilo,,,22/09/2026 15:33
 297eb349-1f71-464d-bcbb-a49aa1947c62,backache.auction,available,36.99,36.99,medium,low,8,namesilo,,,21/09/2026 14:56
 f46064c7-1f16-4f1c-a096-3f331ece0d56,providing.auction,available,3.09,29.35,high,low,9,porkbun,,,28/09/2026 07:19
@@ -380,14 +407,13 @@ ea6d0ddd-a1a9-4613-84e6-953374674951,bighorn.auction,available,36.99,36.99,high,
 461925eb-46e3-4e79-91a2-04e20edd7a67,semitic.auction,available,36.99,36.99,medium,low,7,namesilo,,,10/09/2026 03:32
 c00f5c7c-e113-4068-9105-8b87e451de4d,aspiration.auction,available,36.99,36.99,high,low,10,namesilo,,,18/09/2026 16:53
 a17f858b-141c-414c-8422-7e5e606cfdef,owned.auction,available,36.99,36.99,high,low,5,namesilo,,,26/09/2026 03:41
-aee9b013-ebb5-4276-a16f-29760dcc41b3,jeep.auction,available,,,high,medium,4,,,,
 106c159a-2185-4693-99ab-e5e7ea51f327,tongued.auction,available,36.99,36.99,medium,low,7,namesilo,,,11/09/2026 17:08
 26d690b5-e677-4a0e-abc5-c6e1089dda48,shoebill.auction,available,38.98,46.98,medium,low,8,namecheap,,,21/09/2026 20:35
 8d79302e-ac3f-41d3-b870-60d3fedc10ee,compelled.auction,available,28.2,28.2,low,low,9,cloudflare,,,28/09/2026 23:06
 fcf6cda1-38d3-40e1-b22e-07f5554d1bcd,zhang.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 15:58
 798e9ba9-824d-46ba-85bc-a1ae3241e1d5,toulon.auction,available,29.18,29.18,medium,low,6,spaceship,,,28/09/2026 20:41
 90e60c8a-316b-4269-98e7-cb65be93f86e,skyway.auction,available,38.98,46.98,high,low,6,namecheap,,,17/09/2026 22:32
-95354efa-bf83-46e2-93bb-5f61262da88b,occitan.auction,available,36.99,36.99,medium,low,7,namesilo,,,09/09/2026 04:30
+95354efa-bf83-46e2-93bb-5f61262da88b,occitan.auction,available,36.99,36.99,high,low,7,namesilo,,,09/09/2026 04:30
 fe96106c-29b9-48eb-ba1b-68fd4244946d,indie.auction,premium,500,500,high,medium,5,name.com,,,22/08/2026 03:00
 7cdd61e8-1ba8-4e9a-b6db-a8cd71f2c925,fascinated.auction,available,36.99,36.99,high,low,10,namesilo,,,24/09/2026 17:12
 c83f099a-a613-4d84-a6d6-2b71a655ef92,exclusively.auction,available,4.99,,high,low,11,name.com,,,
@@ -397,6 +423,7 @@ da4839b1-d0a8-4364-a386-46bea2dd786d,advertent.auction,available,4.99,52.99,medi
 5f971c0a-9485-4bba-b8df-cc5c947f0ad2,shifting.auction,available,38.98,46.98,high,low,8,namecheap,,,27/09/2026 21:05
 ee7ff320-32eb-4ab3-afdc-5ccf7c8fac48,jealous.auction,available,36.99,36.99,high,low,7,namesilo,,,24/09/2026 01:04
 523d53a4-6f7b-4c3c-809c-53d44af93faf,tel.auction,resell,,,high,low,3,Dynadot Inc,26/01/2022 18:19,26/01/2027 18:19,26/09/2026 09:33
+b10e910c-83ff-4a0a-a567-21a2dd85f05d,lichens.auction,available,36.99,36.99,low,low,7,namesilo,,,29/09/2026 05:48
 e38b897e-e162-4400-bb5c-0653a9f426a5,heading.auction,available,36.99,36.99,high,low,7,namesilo,,,25/09/2026 07:40
 f04f067d-8e6e-41a7-8beb-2077b7c35da4,internally.auction,available,36.99,36.99,medium,low,10,namesilo,,,15/09/2026 09:01
 d4ba3d2b-dd1a-4595-9339-298aabc61202,anhedonia.auction,available,36.99,36.99,medium,low,9,namesilo,,,19/09/2026 07:46
@@ -414,11 +441,11 @@ b9d4290f-8723-4419-9cb6-8cc1e85ac844,noseless.auction,available,36.99,36.99,low,
 1c62407c-8428-4315-9127-03019bc407ec,fought.auction,available,4.99,,medium,low,6,name.com,,,
 6b338484-a9c7-408a-bb6b-97e1c0214072,imposed.auction,available,4.99,52.99,medium,low,7,name.com,,,21/08/2026 22:50
 72511f0f-162d-41d9-8c8a-b5fd914d940e,eponymous.auction,available,4.99,52.99,high,low,9,name.com,,,17/08/2026 11:29
-63ea4006-8dc9-45dc-b467-d77efffb25ed,importance.auction,available,4.99,,high,low,10,name.com,,,
+63ea4006-8dc9-45dc-b467-d77efffb25ed,importance.auction,available,28.2,28.2,high,low,10,cloudflare,,,29/09/2026 21:24
 61d92077-42d2-4bdc-8fb0-fc5dadae41f8,sabrina.auction,available,36.99,36.99,medium,low,7,namesilo,,,29/09/2026 04:05
 beee17c8-5530-46d5-abc1-8589b7abc5af,cornell.auction,available,36.99,36.99,high,low,7,namesilo,,,29/09/2026 00:29
 38bb7130-a80b-495c-81dd-2dfcd6bb0a55,bum.auction,available,4.99,52.99,medium,low,3,name.com,,,09/08/2026 10:49
-1c1e2336-c4fa-4aab-bea9-917551a360db,chore.auction,available,4.99,,high,low,5,name.com,,,
+1c1e2336-c4fa-4aab-bea9-917551a360db,chore.auction,available,28.2,28.2,high,low,5,cloudflare,,,29/09/2026 09:00
 e46a04e4-32fe-4d15-9b7a-cdda26453579,distinctions.auction,available,38.98,46.98,medium,low,12,namecheap,,,20/09/2026 03:54
 6600f08e-db08-4f49-8a93-d9a32ff9ea10,politicians.auction,available,36.99,36.99,medium,low,11,namesilo,,,19/09/2026 23:03
 4ac37bab-4bdc-44d2-9aac-26ed1d4bd4f8,hoar.auction,available,4.99,52.99,medium,low,4,name.com,,,20/08/2026 19:18
@@ -438,24 +465,29 @@ af754f6a-7fac-4c88-b90e-dedd7aee76a2,dives.auction,available,4.99,,high,low,5,na
 80960a10-7ee8-475c-81a3-048f225421bb,ablated.auction,available,4.99,52.99,medium,low,7,name.com,,,
 8ef9045f-0cb7-4789-b998-52a51aff31a1,phillip.auction,available,38.98,46.98,high,low,7,namecheap,,,17/09/2026 13:24
 531593b3-b94c-4411-963b-df17592c93a8,basilisk.auction,available,36.99,36.99,high,low,8,namesilo,,,22/09/2026 10:54
+53c87843-6d80-4ca4-8135-15ed1ff95aae,panties.auction,available,3,30.18,high,low,7,dynadot,,,29/09/2026 23:36
+2bd93a54-0c7b-4c89-ad39-e883123f9082,renounce.auction,available,36.99,36.99,high,low,8,namesilo,,,29/09/2026 14:11
 56ce5964-42f2-4cf9-9bd7-9ecd4ea1d1ee,ephemeral.auction,available,4.99,52.99,high,low,9,name.com,,,17/08/2026 10:17
 f68d1870-6dab-4cf8-b3cb-807e61afea54,blatant.auction,available,4.99,52.99,medium,low,7,name.com,,,10/08/2026 13:31
 9de5ebcd-b9b4-4d9e-8e61-4fb88b4ac56e,hound.auction,available,36.99,36.99,medium,low,5,namesilo,,,24/09/2026 02:24
-8ef78398-1a95-4d59-95ef-5df60055edd0,icu.auction,available,4.99,,high,low,3,name.com,,,
+8ef78398-1a95-4d59-95ef-5df60055edd0,icu.auction,available,28.2,28.2,high,low,3,cloudflare,,,29/09/2026 23:28
 34e2dd16-9709-4087-bb2f-e6d2f853de46,veracruz.auction,available,36.99,36.99,high,low,8,namesilo,,,28/09/2026 06:50
 f7ab51cc-9a29-41ec-b4f1-a1c2e40ebf10,stepson.auction,available,4.99,,high,low,7,name.com,,,
-b81339d0-4e21-4977-a056-35ab75ff694c,breathless.auction,available,4.99,52.99,medium,low,10,name.com,,,11/08/2026 03:23
-7f9a7eed-2ad8-4436-b40e-70c4561f3f5c,discovered.auction,available,36.99,36.99,high,low,10,namesilo,,,22/09/2026 09:21
+b81339d0-4e21-4977-a056-35ab75ff694c,breathless.auction,available,4.99,52.99,high,low,10,name.com,,,11/08/2026 03:23
+7f9a7eed-2ad8-4436-b40e-70c4561f3f5c,discovered.auction,available,29.18,29.18,high,low,10,spaceship,,,29/09/2026 09:22
 650f7100-1b82-4484-b56b-38fb02a8ee54,candor.auction,available,36.99,36.99,high,low,6,namesilo,,,24/09/2026 12:01
 75d2f6be-93b9-432a-9531-5d675339b6df,continually.auction,available,4.99,,medium,low,11,name.com,,,
+26205704-30f1-4ef2-b609-71d0385a1d4d,federalism.auction,available,29.18,29.18,high,low,10,spaceship,,,29/09/2026 12:14
 78754921-ffd9-4834-b971-2de57c90ef4c,started.auction,available,36.99,36.99,medium,low,7,namesilo,,,18/09/2026 11:27
 8ba580c2-c915-44f5-b74b-bb57113d5119,backpacker.auction,available,38.98,46.98,high,low,10,namecheap,,,21/09/2026 15:44
 386e7c7a-c95b-4e37-9c2b-b677ac2192f7,moonshine.auction,available,4.99,52.99,high,low,9,name.com,,,10/08/2026 19:35
+425fd927-98d7-4e6e-b8dc-9babffee0a31,kneeling.auction,available,28.2,28.2,high,low,8,cloudflare,,,29/09/2026 19:28
 e60ae844-7a4c-423d-ba31-1a1b42b4404a,richards.auction,available,36.99,36.99,high,low,8,namesilo,,,25/09/2026 07:42
+4bb8792e-af29-4c68-8ad4-bb892ef85ff6,suction.auction,available,29.18,29.18,high,low,7,spaceship,,,29/09/2026 14:01
 4864357d-9bef-4744-8099-c5f8ea1a9113,perchance.auction,available,36.99,36.99,medium,low,9,namesilo,,,14/09/2026 02:12
 c04c908c-13c5-448e-97af-ed74ffb7d415,job.auction,premium,1107,1107,high,medium,3,namesilo,,,29/09/2026 03:34
 6881f665-e584-4b92-a532-a786d7bc6ed9,swan.auction,available,36.99,36.99,high,low,4,namesilo,,,10/09/2026 22:05
-5edc2ec5-d52c-4dbb-8868-45fa85e1d77c,biotype.auction,available,38.98,46.98,medium,low,7,namecheap,,,23/09/2026 19:14
+5edc2ec5-d52c-4dbb-8868-45fa85e1d77c,biotype.auction,available,38.98,46.98,high,low,7,namecheap,,,23/09/2026 19:14
 bb1b40da-7787-4b1a-90cf-5f10ad7aa59b,privileges.auction,available,36.99,36.99,low,low,10,namesilo,,,28/09/2026 17:31
 066c7aba-f50a-441d-9e4e-807e8a3d3b60,anaclitic.auction,available,4.99,52.99,medium,low,9,name.com,,,
 d834a2f0-fdd4-47c7-9f53-b82117b0d56f,asanga.auction,available,36.99,36.99,medium,low,6,namesilo,,,20/09/2026 12:49
@@ -464,22 +496,27 @@ d5d751a5-155a-421e-8658-6c9923682dca,palatial.auction,available,36.99,36.99,high
 9f6a6525-7906-4710-b60d-11e2e2345f0b,thumbed.auction,available,36.99,36.99,medium,low,7,namesilo,,,11/09/2026 15:04
 22cce1d1-31eb-42ea-b42c-c7b6cff73e9c,albion.auction,available,38.98,46.98,high,low,6,namecheap,,,18/09/2026 02:58
 c493778c-e200-4224-b56b-44141e548299,nonviolent.auction,available,38.98,46.98,high,low,10,namecheap,,,03/09/2026 21:04
-d33d6077-ab2e-4a54-a0f0-16185ed74001,disconnect.auction,available,4.99,,high,low,10,name.com,,,
+d33d6077-ab2e-4a54-a0f0-16185ed74001,disconnect.auction,available,29.18,29.18,high,low,10,spaceship,,,29/09/2026 15:30
 2079ee59-a535-4e32-82e7-922e11f99ce6,recreated.auction,available,36.99,36.99,medium,low,10,namesilo,,,09/09/2026 10:49
 b8e179c6-8283-4d9f-b07c-21d178b1b7cf,sullen.auction,available,4.99,52.99,medium,low,6,name.com,,,20/08/2026 15:06
-642e5e0b-fcdc-47d7-9fb9-ed903e230d8e,indiana.auction,premium,242,242,high,low,7,namesilo,,,
+642e5e0b-fcdc-47d7-9fb9-ed903e230d8e,indiana.auction,premium,242,242,high,low,7,namesilo,,,29/09/2026 22:58
 b00cc8ec-8931-4931-b48c-a178ac895db7,topic.auction,available,29.18,29.18,high,low,5,spaceship,,,28/09/2026 01:44
+325fa13a-222b-420f-a0e4-5bf89b3afbd4,containment.auction,available,28.2,28.2,high,low,11,cloudflare,,,29/09/2026 10:17
 b901f2f8-e06b-43a8-bf07-7d1c14172aac,situations.auction,available,28.2,28.2,medium,low,10,cloudflare,,,28/09/2026 04:50
 c6a55d4a-292c-4b85-89c1-89bdd669b303,segmental.auction,available,4.99,52.99,medium,low,9,name.com,,,24/08/2026 21:41
 02eabb96-68b6-4049-9eff-981fb40c1066,reminder.auction,available,38.98,46.98,high,low,8,namecheap,,,28/09/2026 18:51
 ec38a95e-54dd-40c2-981e-04af0a4988a9,anatomical.auction,available,4.99,52.99,medium,low,10,name.com,,,
 faa73f20-5f3c-4d0e-b9d5-082461137578,exclaimed.auction,available,36.99,36.99,medium,low,9,namesilo,,,18/09/2026 01:31
+d31b1cb8-2a00-473b-9758-a4b1c2da46da,rebuilt.auction,available,28.2,28.2,high,low,7,cloudflare,,,29/09/2026 16:05
+fb18642a-97c5-473f-a047-4452aaf7f72a,numbered.auction,available,29.18,29.18,medium,low,8,spaceship,,,29/09/2026 10:20
 1093b32b-9d87-49a5-8b91-3b8e716b6307,violently.auction,available,36.99,36.99,medium,low,9,namesilo,,,16/09/2026 11:00
-025d9557-d254-4525-b9e3-242a94842878,know.auction,available,4.99,,high,low,4,name.com,,,
+025d9557-d254-4525-b9e3-242a94842878,know.auction,available,3,30.18,high,low,4,dynadot,,,29/09/2026 20:04
 bb1485d0-f2a6-43d0-a97d-a3a778747f38,piffle.auction,available,38.98,46.98,medium,low,6,namecheap,,,21/09/2026 21:41
-961341fb-73bc-477c-9356-f8827e88e08b,outfitted.auction,available,38.98,46.98,medium,low,9,namecheap,,,04/09/2026 19:24
+961341fb-73bc-477c-9356-f8827e88e08b,outfitted.auction,available,38.98,46.98,high,low,9,namecheap,,,04/09/2026 19:24
 8d621d48-18cc-44a1-a542-a26eef4eb5a4,generals.auction,available,36.99,36.99,medium,low,8,namesilo,,,18/09/2026 06:44
+dc54e88e-ca74-4e69-a7bd-3b7eeeae28a5,avoided.auction,available,28.2,28.2,low,low,7,cloudflare,,,29/09/2026 05:05
 b4980dd0-e415-4e7c-830f-aac398f9111b,innately.auction,available,36.99,36.99,medium,low,8,namesilo,,,15/09/2026 08:27
+f72bbb19-0646-4f94-a963-5471c723691a,dividing.auction,available,29.18,29.18,medium,low,8,spaceship,,,29/09/2026 08:50
 a0430f19-ca04-4dcb-a825-df62519b9252,suggestions.auction,available,4.99,52.99,medium,low,11,name.com,,,17/09/2026 12:49
 d56171a1-24a4-4a25-aa8b-49bedc26b6a1,numb.auction,available,38.98,46.98,medium,low,4,namecheap,,,22/09/2026 19:39
 389dc5ef-e378-4998-9e72-62bed9327922,vegetal.auction,available,36.99,36.99,medium,low,7,namesilo,,,13/09/2026 01:42
@@ -489,8 +526,9 @@ b14477b0-44a2-4b56-bcb9-90e54419d90f,colloidal.auction,available,4.99,52.99,medi
 27ecf748-efdd-4392-b3a2-aff11da148d4,aggressive.auction,available,36.99,36.99,high,low,10,namesilo,,,21/09/2026 22:59
 8057b884-555d-4a44-b6d9-18f1b1e1baf1,bazar.auction,available,38.98,46.98,high,low,5,namecheap,,,22/09/2026 18:23
 20fed4bb-07b6-40bb-b976-a609fb66568b,auden.auction,available,38.98,46.98,medium,low,5,namecheap,,,21/09/2026 02:48
+b4c0fee7-13ba-4c12-840a-d89e5ae126ee,companions.auction,available,36.99,36.99,medium,low,10,namesilo,,,29/09/2026 05:19
 3c266c4e-542a-46c2-bdc3-9b5539873613,gown.auction,premium,128.7,128.7,high,low,4,namecheap,,,28/09/2026 05:51
-99a88867-b052-4446-8517-9fe881f3b7e4,mania.auction,available,4.99,,high,low,5,name.com,,,
+99a88867-b052-4446-8517-9fe881f3b7e4,mania.auction,available,3.09,29.35,high,low,5,porkbun,,,29/09/2026 05:42
 e32bb6e3-9b61-49f9-bc3a-12f9743ba406,doi.auction,available,28.2,28.2,high,low,3,cloudflare,,,28/09/2026 01:47
 bc1c52d5-57bc-46fd-9672-f140b0db4e95,vernon.auction,available,29.18,29.18,high,low,6,spaceship,,,28/09/2026 15:42
 a43da014-efa5-4669-8127-f0ee8d58c0b2,digitizer.auction,available,36.99,36.99,high,low,9,namesilo,,,19/09/2026 01:49
@@ -504,28 +542,31 @@ f6dc69c3-8b34-415c-8b5b-5c2fe65bdedb,sugarless.auction,available,36.99,36.99,med
 b19c5d05-f772-4e2d-b75c-e9e48d80f4e3,avidly.auction,available,36.99,36.99,medium,low,6,namesilo,,,13/09/2026 22:53
 cfdb2243-07cf-45ea-bbc9-44172eb19897,jailhouse.auction,available,36.99,36.99,medium,low,9,namesilo,,,08/09/2026 22:44
 5cd56fe7-105e-4827-badd-0a1e8b985f8f,theatres.auction,available,38.98,46.98,medium,low,8,namecheap,,,20/09/2026 19:41
-b5151725-cf88-4240-a4c6-932d1aee34db,biotite.auction,available,38.98,46.98,medium,low,7,namecheap,,,23/09/2026 19:13
+b5151725-cf88-4240-a4c6-932d1aee34db,biotite.auction,available,38.98,46.98,high,low,7,namecheap,,,23/09/2026 19:13
 c47fa280-42a7-46d6-a6f6-ab8fdaf76a1c,spoof.auction,available,36.99,36.99,high,low,5,namesilo,,,23/09/2026 11:26
-4889bc83-40a3-4bee-adc9-73ed0f2588b3,pervert.auction,available,38.98,46.98,medium,low,7,namecheap,,,23/09/2026 23:54
+4889bc83-40a3-4bee-adc9-73ed0f2588b3,pervert.auction,available,38.98,46.98,high,low,7,namecheap,,,23/09/2026 23:54
 4fea72fd-bc20-4fdb-a06b-72b87bf774f4,eyepiece.auction,available,36.99,36.99,medium,low,8,namesilo,,,04/09/2026 00:46
-3356a93f-39b6-43f9-9d76-a6e2ddfcac0a,anas.auction,available,36.99,36.99,medium,low,4,namesilo,,,19/09/2026 02:30
+3356a93f-39b6-43f9-9d76-a6e2ddfcac0a,anas.auction,available,36.99,36.99,high,low,4,namesilo,,,19/09/2026 02:30
 b6bc7ddd-bbeb-4208-9093-6c060b1e3f22,ventilators.auction,available,36.99,36.99,low,low,11,namesilo,,,18/09/2026 23:26
 f2c0b70a-574e-49ec-b0d3-a3d26a67a3aa,auxiliary.auction,available,4.99,52.99,high,low,9,name.com,,,
 129a9701-0e4a-4217-9576-96e11aa0f900,addict.auction,available,38.98,46.98,high,low,6,namecheap,,,17/09/2026 06:48
 25d017f8-2365-4c2c-a5ae-eac8e0669a6e,worth.auction,available,29.18,29.18,high,low,5,spaceship,,,28/09/2026 11:03
+96715df7-7dec-44b9-987f-4e6a6005b733,shipley.auction,available,29.18,29.18,medium,low,7,spaceship,,,29/09/2026 09:53
 17ab6e7f-2638-4d14-9466-6724069e3474,romanist.auction,available,36.99,36.99,medium,low,8,namesilo,,,05/09/2026 01:28
-7d8078f0-11dc-4f16-9c7b-8f15cfcc6351,bricks.auction,available,4.99,,medium,low,6,name.com,,,
+7d8078f0-11dc-4f16-9c7b-8f15cfcc6351,bricks.auction,available,4.99,,high,low,6,name.com,,,
 27563d32-86a3-4c89-a05f-4de0ef129b38,clinched.auction,available,4.99,52.99,medium,low,8,name.com,,,12/08/2026 10:46
 b0036cab-afdd-433c-8939-b5cc65513683,fetching.auction,available,4.99,52.99,high,low,8,name.com,,,18/08/2026 02:20
 2f467f1e-9166-4181-9fd9-ed96adc0843c,observer.auction,available,36.99,36.99,high,low,8,namesilo,,,27/09/2026 03:30
-4afab970-d22c-49c6-838e-085c31e687e0,relish.auction,available,4.99,,high,low,6,name.com,,,
+4afab970-d22c-49c6-838e-085c31e687e0,relish.auction,available,29.18,29.18,high,low,6,spaceship,,,29/09/2026 21:47
+3c6ba794-2a2b-4162-9626-8ad3b2289bb1,intervals.auction,available,36.99,36.99,medium,low,9,namesilo,,,29/09/2026 23:54
 c775e3d7-072d-4b32-bb49-7e537ac11b1d,erwin.auction,available,38.98,46.98,high,low,5,namecheap,,,27/09/2026 01:41
 f3b703df-b96f-43cd-8a5c-6bef2aa618e9,contiguous.auction,available,4.99,52.99,medium,low,10,name.com,,,12/08/2026 23:11
 6642a518-cd30-48d9-bfab-f7ce72e25874,naval.auction,available,36.99,36.99,high,low,5,namesilo,,,03/09/2026 14:07
 f9f68961-d5ad-4bdb-aceb-f208a36bddbe,anthill.auction,available,36.99,36.99,high,low,7,namesilo,,,19/09/2026 13:26
 b218fdf2-e8b8-412a-b2fa-1656dca1420d,denominations.auction,available,36.99,36.99,low,low,13,namesilo,,,21/09/2026 00:01
+5bda7057-7ed8-461d-8e6c-72916bdd52e1,administered.auction,available,36.99,36.99,medium,low,12,namesilo,,,29/09/2026 16:19
 7726dbde-a4b8-4368-92a3-4718c6bd4469,inculpable.auction,available,4.99,52.99,medium,low,10,name.com,,,10/08/2026 12:55
-afa36f83-f2bb-42e6-b694-18155af92339,isle.auction,available,4.99,,high,low,4,name.com,,,
+afa36f83-f2bb-42e6-b694-18155af92339,isle.auction,available,29.18,29.18,high,low,4,spaceship,,,30/09/2026 00:26
 d584cde6-9984-4f94-ac63-9b3297354338,kang.auction,available,36.99,36.99,medium,low,4,namesilo,,,28/09/2026 11:38
 cbeb382b-bdb7-40eb-abeb-55643bd47a77,drippy.auction,available,4.99,52.99,medium,low,6,name.com,,,09/08/2026 00:32
 12013036-0290-4ee1-a5d5-217630b1307c,coupons.auction,available,36.99,36.99,medium,low,7,namesilo,,,21/09/2026 07:55
@@ -533,13 +574,14 @@ cbeb382b-bdb7-40eb-abeb-55643bd47a77,drippy.auction,available,4.99,52.99,medium,
 02febc32-2b6d-4af6-b3f4-18b94907c72b,photographer.auction,available,38.98,46.98,high,low,12,namecheap,,,27/09/2026 06:12
 e24e588b-2e00-477c-9ec8-00da69dd7cfe,sunshade.auction,available,36.99,36.99,high,low,8,namesilo,,,21/09/2026 10:14
 3935ee6e-2dc3-4fe5-923c-0fef568d5b17,duodecimal.auction,available,4.99,52.99,medium,low,10,name.com,,,14/08/2026 21:19
+19f01926-1f6a-4c83-af92-0faf664016dd,springfield.auction,premium,118.8,118.8,high,low,11,namesilo,,,29/09/2026 22:00
 bf42c5a0-4846-4751-9e6a-b23d6903400f,steeply.auction,available,38.98,46.98,medium,low,7,namecheap,,,16/09/2026 06:59
 489668ea-d764-4264-90a3-64440787dd3b,applicator.auction,available,38.98,46.98,medium,low,10,namecheap,,,19/09/2026 21:55
 43a3e924-0e7e-4328-9809-9c4008f22961,favorites.auction,available,29.18,29.18,medium,low,9,spaceship,,,28/09/2026 18:13
 a9ef78de-58d1-41e9-a05a-03a8b32cdc61,sunburn.auction,available,36.99,36.99,high,low,7,namesilo,,,11/09/2026 07:53
 01a79e2e-532a-4f72-bf95-045d4205b017,worried.auction,available,36.99,36.99,high,low,7,namesilo,,,24/09/2026 11:23
 c2fb0409-98d3-4796-bf21-7621f05cf33f,technique.auction,available,36.99,36.99,high,low,9,namesilo,,,28/09/2026 08:09
-bc45082e-730d-4806-8df2-e07adb96503b,chart.auction,available,4.99,,high,low,5,name.com,,,
+bc45082e-730d-4806-8df2-e07adb96503b,chart.auction,available,29.18,29.18,high,low,5,spaceship,,,29/09/2026 08:17
 ad4d45f0-5735-4a97-a0aa-2fd9a069a343,autocue.auction,available,36.99,36.99,medium,low,7,namesilo,,,21/09/2026 06:14
 98a7440a-97e5-4c60-b833-b1fd1c0d9f54,cannon.auction,available,4.99,52.99,high,low,6,name.com,,,24/09/2026 12:05
 873566e5-34ee-48b5-8f32-eddd8e0694da,troubling.auction,available,4.99,52.99,medium,low,9,name.com,,,14/08/2026 13:19
@@ -548,7 +590,9 @@ b6511c41-5024-4507-9972-45891fb731f8,waxen.auction,available,36.99,36.99,medium,
 aa2ec28f-b8a1-484d-a616-af8d9e7b2ef1,hale.auction,available,4.99,52.99,high,low,4,name.com,,,20/08/2026 22:23
 1760a270-3b61-466e-ae52-5feb71da2e0b,peso.auction,premium,242,242,high,low,4,namesilo,,,24/09/2026 14:37
 e7925dbe-8555-4bc9-997a-0b27347e94dd,overlook.auction,available,4.99,,high,low,8,name.com,,,
-ed3ac9f4-95b1-413b-b667-85ac9780d798,danger.auction,available,4.99,,high,low,6,name.com,,,
+ed3ac9f4-95b1-413b-b667-85ac9780d798,danger.auction,available,28.2,28.2,high,low,6,cloudflare,,,29/09/2026 13:11
+e59df7ee-1dc3-4971-b8b7-aac3f290ec3e,imaging.auction,available,29.18,29.18,high,low,7,spaceship,,,29/09/2026 19:16
+365f62f7-45e6-4a5d-b46d-f7089eb7648c,dio.auction,available,36.99,36.99,high,low,3,namesilo,,,29/09/2026 09:47
 5cb9cda3-6253-4056-8c68-fc349acbec40,frankie.auction,available,36.99,36.99,high,low,7,namesilo,,,26/09/2026 03:25
 792f7649-5926-4aa2-92a9-14e76e68d2eb,mercy.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 09:18
 3b75f919-84ff-4e2d-ba0f-0dee8f0c20f0,economic.auction,available,38.98,46.98,high,low,8,namecheap,,,24/09/2026 13:22
@@ -557,6 +601,7 @@ c793ffbd-5b76-4e5c-8fc6-b8120578ca1b,roughly.auction,available,36.99,36.99,high,
 710c91ac-c9f3-469a-adda-b14604ff0c81,assyria.auction,available,36.99,36.99,medium,low,7,namesilo,,,20/09/2026 16:47
 fd287e24-c0b7-4772-be63-9f2c86bfde16,augustus.auction,available,36.99,36.99,high,low,8,namesilo,,,21/09/2026 04:02
 b8245024-0b57-40e6-9186-9870903ab45a,prescribed.auction,available,4.99,52.99,medium,low,10,name.com,,,13/08/2026 22:17
+208fd362-1231-4246-9939-2cd781bac76b,hearings.auction,available,3.09,29.35,medium,low,8,porkbun,,,29/09/2026 23:58
 5563135f-7fa7-436f-a58e-9a8b0cef69cd,tined.auction,available,36.99,36.99,medium,low,5,namesilo,,,09/09/2026 03:20
 4d44577e-2c90-46e6-8097-7e122c241da6,aileron.auction,available,38.98,46.98,medium,low,7,namecheap,,,17/09/2026 21:10
 c3f8910d-ceea-46a1-b1d6-36da6d6fd409,expressed.auction,available,4.99,52.99,high,low,9,name.com,,,17/08/2026 18:26
@@ -565,9 +610,10 @@ c3f8910d-ceea-46a1-b1d6-36da6d6fd409,expressed.auction,available,4.99,52.99,high
 ec9e26c8-70db-44b9-9475-0e70eaff2516,natation.auction,available,4.99,52.99,medium,low,8,name.com,,,18/08/2026 08:34
 0211b13f-347f-45f5-a572-9424a97cb3de,comrades.auction,available,29.18,29.18,medium,low,8,spaceship,,,28/09/2026 13:07
 85746a08-dcb0-4b1a-bd21-6e2d01dc4284,glossy.auction,available,4.99,52.99,high,low,6,name.com,,,11/08/2026 14:10
-7ada9b93-febc-47c4-a3d1-a3f7a07335b2,waterhouse.auction,available,29.18,29.18,medium,low,10,spaceship,,,28/09/2026 21:43
-da9e6cbb-d807-41a7-8b15-3809476dc2fb,yttrium.auction,available,36.99,36.99,medium,low,7,namesilo,,,20/09/2026 23:00
+7ada9b93-febc-47c4-a3d1-a3f7a07335b2,waterhouse.auction,available,29.18,29.18,high,low,10,spaceship,,,28/09/2026 21:43
+da9e6cbb-d807-41a7-8b15-3809476dc2fb,yttrium.auction,available,36.99,36.99,high,low,7,namesilo,,,20/09/2026 23:00
 2daf15c8-6975-4320-be03-5dbfff024e94,wilde.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 09:39
+d4e8f9d7-06c1-4324-9307-abd92666823a,ecg.auction,available,36.99,36.99,high,low,3,namesilo,,,30/09/2026 00:58
 b6ee4e1f-4af5-483b-83f7-7b29300cee89,confines.auction,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 17:13
 ca9866c6-1bc3-4b8e-a8e2-feb981fe7acf,cosily.auction,available,36.99,36.99,medium,low,6,namesilo,,,14/09/2026 08:50
 b81dcb2e-c931-49c9-af8c-953c1fe1a17f,cairo.auction,premium,118.8,118.8,high,low,5,namesilo,,,28/09/2026 19:56
@@ -580,7 +626,7 @@ a24115a5-f819-4815-9a8b-49e346c521e8,unpowered.auction,available,36.99,36.99,med
 91eadb79-3e34-460f-8064-85e368beb9e2,delivery.auction,available,36.99,36.99,high,low,8,namesilo,,,29/09/2026 04:21
 db419bcc-ba03-4567-8489-08604b45a46e,erotism.auction,available,38.98,46.98,medium,low,7,namecheap,,,18/09/2026 16:15
 7866f40c-e873-4bbc-b92e-ca495ef21e09,stiff.auction,available,4.99,52.99,medium,low,5,name.com,,,09/08/2026 16:54
-edca3d9d-88c2-4017-89d4-11088057a70e,instead.auction,available,3,30.18,medium,low,7,dynadot,,,28/09/2026 12:08
+edca3d9d-88c2-4017-89d4-11088057a70e,instead.auction,available,3,30.18,high,low,7,dynadot,,,28/09/2026 12:08
 7870504f-611c-4469-8de7-08b040bf9a52,amyloid.auction,available,4.99,52.99,medium,low,7,name.com,,,
 05494af4-e7d2-4c84-8218-2ce2f9076b1c,braun.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 02:19
 6d66bd48-4783-465b-b1f8-32978d0b4e18,aboulic.auction,available,4.99,52.99,medium,low,7,name.com,,,
@@ -592,21 +638,23 @@ d366764e-f726-40a5-876a-21385d7f6960,polio.auction,available,36.99,36.99,medium,
 66e3eddd-90be-42f0-a161-c32eb7378918,buildings.auction,premium,242,242,medium,low,9,namesilo,,,27/09/2026 09:32
 c143692c-2f8c-4c5c-b5d2-94f3117b56b1,aerate.auction,available,38.98,46.98,high,low,6,namecheap,,,17/09/2026 21:35
 d422a846-833b-4b81-96f6-40fc0f5db103,paths.auction,available,36.99,36.99,medium,low,5,namesilo,,,18/09/2026 10:52
-36afba7a-ecd4-4872-b432-f8cbb58e2542,mcnamara.auction,available,36.99,36.99,medium,low,8,namesilo,,,27/09/2026 08:09
+36afba7a-ecd4-4872-b432-f8cbb58e2542,mcnamara.auction,available,36.99,36.99,high,low,8,namesilo,,,27/09/2026 08:09
 25091bb7-3df5-407c-83ea-15ae120a6061,twist.auction,available,36.99,36.99,high,low,5,namesilo,,,28/09/2026 10:40
-e0aa557d-f66f-401b-84aa-6f6031479265,orca.auction,available,4.99,,high,medium,4,name.com,,,
-4198b8f1-c7a4-4e0f-9f40-b30c7dd4f78e,blistering.auction,available,4.99,52.99,medium,low,10,name.com,,,
+e0aa557d-f66f-401b-84aa-6f6031479265,orca.auction,available,29.18,29.18,high,medium,4,spaceship,,,29/09/2026 21:14
+4198b8f1-c7a4-4e0f-9f40-b30c7dd4f78e,blistering.auction,available,4.99,52.99,high,low,10,name.com,,,
 fa5515af-b8b8-44d0-96f6-c3b5d04cd57d,portent.auction,available,36.99,36.99,medium,low,7,namesilo,,,09/09/2026 02:55
 5748c1f7-c1d9-440f-ae83-a1fb6f2bdafa,steady.auction,available,36.99,36.99,high,low,6,namesilo,,,25/09/2026 20:39
 34c31e97-4ff6-4322-b05b-8884ea93b03c,sugars.auction,available,38.98,46.98,medium,low,6,namecheap,,,18/09/2026 08:14
 67dc06b9-0faf-40dd-a32f-10678ab3b6ae,submerged.auction,available,36.99,36.99,medium,low,9,namesilo,,,10/09/2026 23:30
+ac1fd93b-ba61-44b2-931b-0f80b25d4ce9,schemes.auction,available,36.99,36.99,medium,low,7,namesilo,,,29/09/2026 17:00
+ea208c29-7f89-4216-b538-e16e3479ce95,shines.auction,available,36.99,36.99,medium,low,6,namesilo,,,29/09/2026 17:16
 070bd7d1-0aa9-48f3-9a0e-6cbf4ab38b91,begging.auction,available,36.99,36.99,medium,low,7,namesilo,,,23/09/2026 02:16
 fefe03d3-ebd0-45fe-a041-dd26a3f4be63,comely.auction,available,4.99,52.99,medium,low,6,name.com,,,09/08/2026 06:13
 d0b5388a-0695-47e9-8552-e2a4dcc9b514,highest.auction,available,36.99,36.99,medium,low,7,namesilo,,,25/09/2026 16:49
 7eb4ca9d-a4ce-4fd3-bba3-bea01b85af4d,bakshis.auction,available,36.99,36.99,medium,low,7,namesilo,,,21/09/2026 15:54
 ad43b041-fcb7-4758-87d6-a76d50360a83,guaranteed.auction,available,28.2,28.2,high,low,10,cloudflare,,,28/09/2026 04:50
 ca0c669f-2828-49f7-8def-6704cd9bc0e4,cancelled.auction,available,4.99,52.99,high,low,9,name.com,,,11/08/2026 16:25
-8deec2ed-afaf-4299-92f9-94c77452cce3,courtroom.auction,available,4.99,,high,low,9,name.com,,,
+8deec2ed-afaf-4299-92f9-94c77452cce3,courtroom.auction,available,36.99,36.99,high,low,9,namesilo,,,29/09/2026 11:50
 50949cfc-909f-4594-8ffc-0ab63c97d801,skittish.auction,available,36.99,36.99,medium,low,8,namesilo,,,10/09/2026 09:48
 c61c79b7-9ffe-455a-b204-38516705e051,cobalt.auction,available,36.99,36.99,high,low,6,namesilo,,,20/09/2026 22:41
 fc1977bb-e946-4e58-b818-c9fe0d55cb94,roving.auction,available,4.99,52.99,high,low,6,name.com,,,25/08/2026 02:22
@@ -618,7 +666,7 @@ c2be46db-7c8f-4ab0-a04f-103d77bfa362,bohme.auction,available,38.98,46.98,medium,
 123ffb4c-e41c-488f-ab88-9305a4ede3c6,acquaintance.auction,available,36.99,36.99,high,low,12,namesilo,,,28/09/2026 08:20
 1944cf2a-e4da-41ba-8e2e-311325717e87,termination.auction,available,36.99,36.99,high,low,11,namesilo,,,04/09/2026 07:49
 78509ae1-9b70-488c-ac91-91c9cc7afa8c,micro.auction,premium,36.32,72.57,high,medium,5,porkbun,,,28/09/2026 08:21
-989fb51c-9519-417f-9e20-646a49b141df,resistive.auction,available,36.99,36.99,medium,low,9,namesilo,,,09/09/2026 15:23
+989fb51c-9519-417f-9e20-646a49b141df,resistive.auction,available,36.99,36.99,high,low,9,namesilo,,,09/09/2026 15:23
 37f7d396-e12c-43f1-8a6f-d1c1833e6bbe,shahn.auction,available,38.98,46.98,high,low,5,namecheap,,,23/09/2026 07:28
 3cd9f9b6-e2c0-41dc-aa21-7fa0ddac0db0,cosset.auction,available,36.99,36.99,high,low,6,namesilo,,,21/09/2026 13:00
 96e11ac0-53e3-4fd0-8d31-67db7e2d1ff3,motherly.auction,available,4.99,52.99,high,low,8,name.com,,,25/08/2026 07:06
@@ -629,6 +677,7 @@ c2be46db-7c8f-4ab0-a04f-103d77bfa362,bohme.auction,available,38.98,46.98,medium,
 bf3d3ee4-d4a3-462a-b356-adcc3a26a415,blotto.auction,available,4.99,52.99,low,low,6,name.com,,,09/08/2026 15:32
 d60e56d9-3ebf-41d7-9e18-962852d1df5d,bigfoot.auction,available,36.99,36.99,high,low,7,namesilo,,,23/09/2026 15:06
 c1d7b35f-2789-4262-b289-2fbd31bc387e,branding.auction,premium,242,242,high,low,8,namesilo,,,24/09/2026 08:11
+77986051-0a0a-44d8-8f9c-d4cd61c18ebe,configuration.auction,available,3.09,29.35,medium,low,13,porkbun,,,29/09/2026 10:14
 6f880bea-fa5f-4ffb-8bd8-0d5763538c58,publisher.auction,available,36.99,36.99,high,low,9,namesilo,,,28/09/2026 10:33
 d98e24ba-3231-4479-80ab-c3a1e4489bec,spelled.auction,available,29.18,29.18,low,low,7,spaceship,,,28/09/2026 16:58
 89b269e6-3ae0-4597-b741-c091e5590d6f,bursal.auction,available,4.99,52.99,medium,low,6,name.com,,,11/08/2026 11:04
@@ -636,6 +685,7 @@ d98e24ba-3231-4479-80ab-c3a1e4489bec,spelled.auction,available,29.18,29.18,low,l
 3a046cd2-55b7-4dd0-9187-7f4d129c7d18,culinary.auction,available,36.99,36.99,high,low,8,namesilo,,,19/09/2026 15:04
 99f50831-399f-4542-8ef8-b56af10050f4,jose.auction,available,29.18,29.18,medium,low,4,spaceship,,,28/09/2026 11:51
 252ca7c6-2a53-407a-b05d-c7d27fa472ce,asdic.auction,available,38.98,46.98,medium,low,5,namecheap,,,20/09/2026 13:30
+97075427-23ab-4f40-8ba2-b2904240222a,practitioner.auction,available,29.18,29.18,high,low,12,spaceship,,,29/09/2026 14:23
 adc7846b-784f-47a6-abb2-90bd9223a551,ine.auction,available,28.2,28.2,medium,low,3,cloudflare,,,28/09/2026 08:13
 93b3bd4b-0580-45e7-8ee5-5b9a9b69743f,barde.auction,available,36.99,36.99,medium,low,5,namesilo,,,22/09/2026 05:12
 bd4b6899-3d98-49a9-bc33-a79c942f26b2,mutter.auction,available,36.99,36.99,high,low,6,namesilo,,,03/09/2026 11:12
@@ -643,16 +693,16 @@ bd4b6899-3d98-49a9-bc33-a79c942f26b2,mutter.auction,available,36.99,36.99,high,l
 877ae87c-5793-4ae2-b390-8b53c56dcc8f,glenn.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 06:35
 c0f08f3c-eba6-4733-b490-8246685c0e41,weighty.auction,available,4.99,52.99,medium,low,7,name.com,,,12/08/2026 15:37
 68e3f294-80f2-47b3-80d1-fe6dd3551118,politician.auction,available,29.18,29.18,high,low,10,spaceship,,,28/09/2026 10:44
-4a1e762f-6180-4794-b04f-36f95213d92b,jot.auction,available,4.99,,high,low,3,name.com,,,
+4a1e762f-6180-4794-b04f-36f95213d92b,jot.auction,available,29.18,29.18,high,low,3,spaceship,,,30/09/2026 00:55
 b1597c64-9d36-4917-af6e-9b2250b71c8c,object.auction,available,36.99,36.99,high,low,6,namesilo,,,19/09/2026 05:21
 099f57a9-d07f-46b3-a134-670d38552792,pearly.auction,available,36.99,36.99,high,low,6,namesilo,,,08/09/2026 11:21
 4d1ea058-34fe-4786-9e7a-49851d9c2b36,measured.auction,available,4.99,52.99,high,low,8,name.com,,,11/08/2026 13:59
 f068973c-c5b3-434d-9a04-890ed5ff3b6b,bedamn.auction,available,4.99,52.99,medium,low,6,name.com,,,13/08/2026 16:21
-e917bdf2-978c-4f6c-b82f-8e1ec3588147,gad.auction,available,36.99,36.99,medium,low,3,namesilo,,,19/09/2026 15:59
+e917bdf2-978c-4f6c-b82f-8e1ec3588147,gad.auction,available,36.99,36.99,high,low,3,namesilo,,,19/09/2026 15:59
 31e47552-20b2-4e64-831b-610ac1124473,persistent.auction,available,4.99,52.99,high,low,10,name.com,,,14/08/2026 14:58
 8e96d0ac-2caa-4f78-ba2e-ed6a87596e3e,affected.auction,available,4.99,52.99,high,low,8,name.com,,,
-4e627bbf-9243-4c10-815a-020db3d28f3d,miscellany.auction,available,4.99,52.99,medium,low,10,name.com,,,25/08/2026 08:20
-73d98570-518c-4906-9d9b-363ae2ab5f57,splendidly.auction,available,36.99,36.99,medium,low,10,namesilo,,,14/09/2026 16:44
+4e627bbf-9243-4c10-815a-020db3d28f3d,miscellany.auction,available,4.99,52.99,high,low,10,name.com,,,25/08/2026 08:20
+73d98570-518c-4906-9d9b-363ae2ab5f57,splendidly.auction,available,36.99,36.99,high,low,10,namesilo,,,14/09/2026 16:44
 6c33aa9f-3469-46cf-9c14-6228509fc874,whiny.auction,available,36.99,36.99,medium,low,5,namesilo,,,09/09/2026 08:37
 1f5f9e99-e03e-448b-bcf8-b0d7974848e2,unlaced.auction,available,36.99,36.99,medium,low,7,namesilo,,,12/09/2026 14:37
 f6e8cfa1-6f06-45e4-8c49-1e703c0b3cc9,uncontrollable.auction,available,4.99,,medium,low,14,name.com,,,
@@ -665,9 +715,10 @@ b420fa8b-5610-4640-aa0b-0b59c9d78286,sends.auction,available,36.99,36.99,medium,
 d4f9a213-b2be-4536-9aa1-149321654fe7,ren.auction,available,36.99,36.99,high,low,3,namesilo,,,29/09/2026 02:51
 5f620fa3-9dcc-4800-93a9-7847ba2acf9b,bosses.auction,available,36.99,36.99,medium,low,6,namesilo,,,18/09/2026 05:55
 445f8dae-b00b-4d60-b2a2-1d3a9ade098b,knowledge.auction,premium,128.7,128.7,high,low,9,namecheap,,,28/09/2026 05:28
-27af7941-6693-4111-a7bc-61cc24bda168,hefty.auction,available,4.99,52.99,medium,low,5,name.com,,,11/08/2026 02:48
+27af7941-6693-4111-a7bc-61cc24bda168,hefty.auction,available,4.99,52.99,high,low,5,name.com,,,11/08/2026 02:48
 1ac2e066-75dd-4c7a-97d6-ad1d41cbc555,beneficial.auction,available,4.99,52.99,high,low,10,name.com,,,09/08/2026 14:24
 5b720c77-27b2-424d-85cf-3fdee7411a2f,fifties.auction,available,36.99,36.99,high,low,7,namesilo,,,16/09/2026 12:10
+f2f47cdc-e16c-46cc-9131-90c7c7ba6046,surrendered.auction,available,28.2,28.2,low,low,11,cloudflare,,,29/09/2026 05:38
 7235c253-64e1-4804-b514-ba14034f6317,pickett.auction,available,36.99,36.99,medium,low,7,namesilo,,,28/09/2026 14:18
 81907d6e-90bc-4fa5-8f9f-c1201391a132,bazaar.auction,premium,128.7,128.7,high,low,6,namecheap,,,22/09/2026 18:20
 efd0febe-5712-4c24-9e93-870547751753,shift.auction,available,29.18,29.18,high,medium,5,spaceship,,,27/09/2026 21:11
@@ -675,15 +726,17 @@ f41072df-f85c-4bb4-b9eb-804844f32457,crackle.auction,available,4.99,52.99,high,l
 9a9b77fd-9dec-4530-bf7b-491b8d1d5f8a,substantial.auction,available,4.99,,high,low,11,name.com,,,
 d5a0f4ce-2e07-46cd-9719-91cee780cd8c,amigo.auction,available,38.98,46.98,high,low,5,namecheap,,,18/09/2026 21:37
 a99f2d8e-5cb6-4d9a-9c70-c406f56d3cac,boris.auction,available,38.98,46.98,high,low,5,namecheap,,,25/09/2026 20:39
-e05175c8-0506-406a-8ffb-97c0f306eb1d,nashville.auction,premium,1107,1107,high,low,9,namesilo,,,
+e05175c8-0506-406a-8ffb-97c0f306eb1d,nashville.auction,premium,1107,1107,high,low,9,namesilo,,,29/09/2026 07:04
 27be6127-fb73-4cbe-a2e6-872eded6e3b6,compliment.auction,available,36.99,36.99,high,low,10,namesilo,,,24/09/2026 16:50
 51569ffc-1de6-4b7f-bb32-a558a192d414,squealed.auction,available,36.99,36.99,low,low,8,namesilo,,,20/09/2026 17:30
 68b430bc-240a-46e2-87db-8a977d792366,ungoverned.auction,available,36.99,36.99,medium,low,10,namesilo,,,12/09/2026 04:36
 0839542d-e569-4f6e-a785-f7b75de86dff,negative.auction,available,36.99,36.99,high,low,8,namesilo,,,24/09/2026 11:09
+be5818fb-549e-405b-90a7-ae1f83fda5b6,peaked.auction,available,29.18,29.18,high,low,6,spaceship,,,29/09/2026 21:11
 9e002c36-f02a-49d0-ac37-b4b3c524b1be,aspheric.auction,available,4.99,52.99,medium,low,8,name.com,,,07/08/2026 04:52
 8b1640f6-228d-4845-8272-8d8cb5432ba4,amnesty.auction,available,36.99,36.99,high,low,7,namesilo,,,18/09/2026 22:23
 97b592fb-a0ae-4fd2-9d9f-b8d3c6fdec87,aloneness.auction,available,36.99,36.99,medium,low,9,namesilo,,,18/09/2026 13:12
 69aa723f-20a6-46b2-8ac9-25972c946145,inheritance.auction,available,29.18,29.18,high,low,11,spaceship,,,28/09/2026 12:28
+79a5e722-82cd-4191-aa86-a718a621478b,lectures.auction,available,3,30.18,low,low,8,dynadot,,,29/09/2026 05:25
 a1993449-820d-42fe-b2b1-fa0d7c4ee609,laptop.auction,premium,1107,1107,high,low,6,namesilo,,,
 7ebbbe70-3d48-41fa-a0b5-68a20a45dbc9,facility.auction,premium,207.2,207.2,high,low,8,spaceship,,,28/09/2026 18:28
 15f08efd-5943-4233-b3e2-8cb6fa30d343,archosaur.auction,available,4.99,52.99,medium,low,9,name.com,,,06/08/2026 15:57
@@ -696,13 +749,17 @@ a1993449-820d-42fe-b2b1-fa0d7c4ee609,laptop.auction,premium,1107,1107,high,low,6
 ab03a281-4a4e-4f61-a254-0e529fed5d84,yours.auction,available,4.99,,high,low,5,name.com,,,
 cd8399ef-a407-46eb-be75-54e452de2be7,abbott.auction,available,3.09,29.35,high,low,6,porkbun,,,27/09/2026 17:56
 97019a88-7f82-46b1-8349-3bec052ed9f6,wills.auction,available,29.18,29.18,high,low,5,spaceship,,,29/09/2026 03:50
+73df4acf-f85d-4502-a0e2-eb1cc8556b0e,dictate.auction,available,38.98,46.98,high,low,7,namecheap,,,29/09/2026 18:38
 3057cd98-806a-4b4d-a17a-6bf32880d457,coming.auction,available,38.98,46.98,high,low,6,namecheap,,,23/09/2026 15:31
+23482fd3-147d-4594-9eee-da0fb9f7874f,highlights.auction,available,36.99,36.99,high,low,10,namesilo,,,29/09/2026 17:36
+426cd537-6d76-43d3-a29f-9a3ebec2c522,contestants.auction,available,38.98,46.98,medium,low,11,namecheap,,,29/09/2026 11:30
 835f1a16-bcf6-43c9-8d07-b4d2941b4c1b,arsonist.auction,available,4.99,52.99,medium,low,8,name.com,,,22/08/2026 00:55
 c2222d4f-a5f7-4e24-9375-97f2f34e7f67,baklava.auction,available,38.98,46.98,high,low,7,namecheap,,,21/09/2026 20:21
 562aa47c-370d-4c38-acec-e4d0e8c6c8d4,willow.auction,available,4.99,,high,low,6,name.com,,,
 f0813c08-f87f-4bbc-997a-74311fb7c6f2,clancy.auction,available,29.18,29.18,medium,low,6,spaceship,,,28/09/2026 21:20
 98256ebb-0ebb-4e51-bd78-06347aeed60d,copper.auction,available,38.98,46.98,high,low,6,namecheap,,,20/09/2026 22:44
 11a66a8e-9c42-4be8-8cba-108e761d2928,enlivened.auction,available,4.99,52.99,high,low,9,name.com,,,17/08/2026 09:37
+ed1d6ffd-6251-4ac5-aaf7-364c053e0c9c,gerber.auction,available,3,30.18,high,low,6,dynadot,,,29/09/2026 09:42
 f3227950-dacf-4031-a64e-e69b72ad5add,proceeded.auction,available,36.99,36.99,medium,low,9,namesilo,,,18/09/2026 01:36
 520ef9cc-bb13-4eb1-b542-b0256f08410d,brenda.auction,available,36.99,36.99,medium,low,6,namesilo,,,25/09/2026 15:27
 ccb011d4-a190-442c-8257-ca28dc6453ea,soaker.auction,available,4.99,52.99,medium,low,6,name.com,,,
@@ -711,7 +768,9 @@ ccb011d4-a190-442c-8257-ca28dc6453ea,soaker.auction,available,4.99,52.99,medium,
 89c8ac9f-2de0-4cc2-86ff-83591b65440b,fluid.auction,available,4.99,52.99,high,low,5,name.com,,,18/08/2026 09:14
 8664893f-4b76-48cf-9470-de034cd28cb5,hypocrite.auction,available,38.98,46.98,high,low,9,namecheap,,,08/09/2026 19:08
 4e88c203-8d8f-4307-9ea7-93ae192063b1,mecca.auction,premium,123.75,,high,low,5,name.com,,,
+68bdbbb9-65ae-4c62-b27a-b365b32013fc,roach.auction,available,28.2,28.2,medium,low,5,cloudflare,,,29/09/2026 06:23
 7755b58e-6184-4d16-84bf-fb884e958a71,grower.auction,available,38.98,46.98,high,low,6,namecheap,,,17/09/2026 19:21
+d4ac0556-bcc3-47fc-9412-54ae7ab4f94f,plato.auction,available,29.18,29.18,high,low,5,spaceship,,,29/09/2026 13:42
 dc87baf6-fe0f-4872-b294-4e76cb5b5c8e,committing.auction,available,4.99,,high,low,10,name.com,,,
 e1553cfd-1cd7-4a33-9687-ea54b1dff64f,eroded.auction,available,4.99,52.99,medium,low,6,name.com,,,17/08/2026 12:24
 b1ef2719-7cee-4691-a902-1dd44dc85239,deception.auction,available,36.99,36.99,high,low,9,namesilo,,,24/09/2026 17:22
@@ -731,6 +790,7 @@ e486fb7f-e8df-4167-8728-debe298ab67a,arrive.auction,available,4.99,,high,low,6,n
 2aee7990-c3aa-48d1-8b11-f3740b73c5b3,hold.auction,available,38.98,46.98,high,low,4,namecheap,,,24/09/2026 23:26
 95992a3c-f747-4fcd-a7d3-df249ac9da45,tacit.auction,available,36.99,36.99,high,low,5,namesilo,,,11/09/2026 06:56
 260b29d2-2d32-4a46-b6e3-6d8cedd99a3a,liaison.auction,available,36.99,36.99,high,low,7,namesilo,,,17/09/2026 14:03
+b1b078e9-9e0d-4a58-8974-1971d8513c7e,describes.auction,available,29.18,29.18,medium,low,9,spaceship,,,29/09/2026 17:07
 187fea01-6574-494f-89c4-2245ccf19bc5,catarrhine.auction,available,4.99,52.99,medium,low,10,name.com,,,11/08/2026 21:11
 29d8ab90-e282-4fa6-90ae-5141ea0d9a65,connor.auction,available,36.99,36.99,high,low,6,namesilo,,,25/09/2026 15:29
 84d75898-be79-4bc0-931a-d053af0aa7c7,sixth.auction,available,4.99,52.99,high,low,5,name.com,,,
@@ -740,15 +800,16 @@ fca835fa-38f8-428d-96ba-5613a0654a96,witchcraft.auction,available,36.99,36.99,hi
 005886d0-9c7a-4647-8374-4e5da1ea8fab,buses.auction,premium,1107,1107,medium,low,5,namesilo,,,18/09/2026 13:34
 60972ef2-fc15-4a0f-a66e-ce3644f6859d,toller.auction,available,36.99,36.99,medium,low,6,namesilo,,,23/09/2026 05:41
 88661ac3-00ea-4433-af77-5aab024bc8bd,acm.auction,available,29.18,29.18,high,low,3,spaceship,,,28/09/2026 03:40
-3364e495-0a50-4232-bb34-7d8ee6d7b812,paste.auction,available,4.99,,high,low,5,name.com,,,
+3364e495-0a50-4232-bb34-7d8ee6d7b812,paste.auction,available,3,30.18,high,low,5,dynadot,,,29/09/2026 20:56
 71638593-d2db-4304-8be0-7939210259ca,tyson.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 23:42
-faf656a5-00c9-469e-8910-7ddd650ae21f,gaza.auction,available,36.99,36.99,medium,low,4,namesilo,,,25/09/2026 06:23
+faf656a5-00c9-469e-8910-7ddd650ae21f,gaza.auction,available,36.99,36.99,high,low,4,namesilo,,,25/09/2026 06:23
 03930f1f-e372-42ce-bebf-a26ad35cd85a,uuh.auction,available,36.99,36.99,medium,low,3,namesilo,,,20/09/2026 22:22
+cb9c666f-46ea-4385-9b62-baa06bbcf14b,bumped.auction,available,29.18,29.18,medium,low,6,spaceship,,,29/09/2026 21:29
 2814d0ff-fe82-4582-924c-871da146daf9,lynchpin.auction,available,36.99,36.99,high,low,8,namesilo,,,21/09/2026 15:18
 6d046c84-08ed-4eb9-87f7-e89d9fee9872,anopheles.auction,available,38.98,46.98,medium,low,9,namecheap,,,19/09/2026 11:39
 a5d0bc3b-44fa-49a3-9153-832b38cb63a6,firework.auction,available,36.99,36.99,high,low,8,namesilo,,,09/09/2026 07:10
 ef65311b-f7a9-48e9-8496-c7e26c630df0,allograph.auction,available,36.99,36.99,medium,low,9,namesilo,,,18/09/2026 11:54
-9ee700c5-7b48-4841-afa8-58e11c600608,employee.auction,available,36.99,36.99,high,low,8,namesilo,,,25/09/2026 05:30
+9ee700c5-7b48-4841-afa8-58e11c600608,employee.auction,available,29.18,29.18,high,low,8,spaceship,,,29/09/2026 08:21
 217b3c9c-ec9b-4e03-8525-db28b72960aa,expendable.auction,available,4.99,52.99,high,low,10,name.com,,,17/08/2026 18:08
 90d44c79-fa8c-4b1c-a3de-94cd7b14ee71,merchandise.auction,available,29.18,29.18,high,low,11,spaceship,,,28/09/2026 03:28
 d90877b8-607c-41d8-99de-3488cfe330cb,evoked.auction,available,4.99,52.99,medium,low,6,name.com,,,16/08/2026 04:33
@@ -769,18 +830,20 @@ fb397fc1-3d45-41c9-aced-8372858767c2,eddie.auction,available,4.99,,high,low,5,na
 7bc403e7-5781-49f4-89b0-38f34e0e0eb4,parched.auction,available,4.99,52.99,medium,low,7,name.com,,,
 34842fc7-7b7d-428a-b1cf-1110f5a19a0b,redbrush.auction,available,36.99,36.99,medium,low,8,namesilo,,,18/09/2026 19:44
 f1bf13c3-0733-467a-a378-0286225b30e4,cartoon.auction,available,36.99,36.99,high,low,7,namesilo,,,19/09/2026 08:59
-3c20eb22-20e8-4acc-a1a7-855a00ef4f45,gag.auction,available,4.99,,high,low,3,name.com,,,
+3c20eb22-20e8-4acc-a1a7-855a00ef4f45,gag.auction,available,3,30.18,high,low,3,dynadot,,,29/09/2026 20:25
 f715b64b-5c92-4f6a-8942-db063137b61c,asiatic.auction,available,4.99,52.99,medium,low,7,name.com,,,07/08/2026 02:29
 a66d756b-002e-4ee4-8c8f-22179d377f29,scientists.auction,available,36.99,36.99,medium,low,10,namesilo,,,27/09/2026 11:19
 650d920f-576b-4aa2-aeaf-999e07bbfd14,palmatifid.auction,available,36.99,36.99,medium,low,10,namesilo,,,05/09/2026 00:03
 da88316a-5e09-4735-b836-c69b23284657,mealy.auction,available,4.99,52.99,low,low,5,name.com,,,12/08/2026 14:05
+eaf532d6-fe00-4c67-96eb-34649ce13552,lacks.auction,available,28.2,28.2,low,low,5,cloudflare,,,29/09/2026 10:48
 79b96dd6-cbe2-49c8-b03e-9b671a28e426,paragraph.auction,available,29.18,29.18,high,low,9,spaceship,,,28/09/2026 15:02
 9b7a30a7-e924-48d9-92da-7169f6af493a,sonoma.auction,available,4.99,52.99,high,low,6,name.com,,,27/09/2026 20:23
 a1250c3c-35f4-43ae-8372-7857520e810b,aku.auction,available,38.98,46.98,high,low,3,namecheap,,,18/09/2026 00:16
+a85f1d79-fa5b-4a01-a1ac-fb3868ddff00,inflicted.auction,available,36.99,36.99,low,low,9,namesilo,,,30/09/2026 00:06
 c87b27a0-c861-4229-8302-0e2c49098605,soundable.auction,available,4.99,52.99,medium,low,9,name.com,,,17/08/2026 23:44
-91406819-c318-4f28-9e74-a3ad44ebc4f2,elderberry.auction,available,36.99,36.99,medium,low,10,namesilo,,,24/09/2026 00:39
-fd0a3044-510b-4d45-af6e-b5f55ede48d5,highbrow.auction,available,4.99,52.99,medium,low,8,name.com,,,21/08/2026 09:09
-e0c14360-3714-42af-8fbe-a1695719b79f,curiosity.auction,available,4.99,,high,low,9,name.com,,,
+91406819-c318-4f28-9e74-a3ad44ebc4f2,elderberry.auction,available,36.99,36.99,high,low,10,namesilo,,,24/09/2026 00:39
+fd0a3044-510b-4d45-af6e-b5f55ede48d5,highbrow.auction,available,4.99,52.99,high,low,8,name.com,,,21/08/2026 09:09
+e0c14360-3714-42af-8fbe-a1695719b79f,curiosity.auction,available,36.99,36.99,high,low,9,namesilo,,,29/09/2026 13:03
 cd1522be-0867-4e24-b8bb-d80171ac9f9c,apostate.auction,available,4.99,52.99,medium,low,8,name.com,,,06/08/2026 03:35
 9292178a-1a45-4404-9b6e-18a7dc6f427b,organise.auction,available,36.99,36.99,high,low,8,namesilo,,,23/09/2026 23:21
 78b90ae1-706c-4998-b967-e8f1d667c020,blasted.auction,available,4.99,52.99,medium,low,7,name.com,,,10/08/2026 12:35
@@ -793,10 +856,10 @@ b78f02c1-d7c4-4e49-9676-b942a35f8025,likelihood.auction,available,29.18,29.18,hi
 73d0621b-ffae-42c7-a56a-9d84de981e86,breaks.auction,available,36.99,36.99,medium,low,6,namesilo,,,17/09/2026 22:04
 e80f13a6-4c16-459a-927d-abe5dbbe91f0,dandily.auction,available,36.99,36.99,medium,low,7,namesilo,,,14/09/2026 10:33
 ff968605-0247-47ad-ac02-58d67999bd7f,webmasters.auction,available,38.98,46.98,medium,low,10,namecheap,,,18/09/2026 23:06
-2238286a-d125-4c5c-babd-eea615b8270f,utica.auction,available,29.18,29.18,medium,low,5,spaceship,,,27/09/2026 16:08
+2238286a-d125-4c5c-babd-eea615b8270f,utica.auction,available,29.18,29.18,high,low,5,spaceship,,,27/09/2026 16:08
 4f4dd414-69d6-4806-812a-07bb26496756,soon.auction,available,3,30.18,high,low,4,dynadot,,,28/09/2026 13:25
 3843a6a3-6e53-4111-a725-075fa45f9f80,jeer.auction,available,4.99,52.99,medium,low,4,name.com,,,22/08/2026 12:37
-0abd8ad3-f0b5-421f-87ba-cc74e5efd18e,croat.auction,available,4.99,52.99,medium,low,5,name.com,,,13/08/2026 07:34
+0abd8ad3-f0b5-421f-87ba-cc74e5efd18e,croat.auction,available,4.99,52.99,high,low,5,name.com,,,13/08/2026 07:34
 c6610315-5493-4140-9a90-e3e0d0df5754,titled.auction,available,4.99,52.99,high,low,6,name.com,,,13/08/2026 01:50
 3f9efe0c-51fc-4100-abd1-be3564ab8dec,vermilion.auction,available,4.99,52.99,high,low,9,name.com,,,12/08/2026 05:45
 fbd983ea-807b-4cf8-ab7b-c37df6f9ec30,eclipse.auction,available,36.99,36.99,high,medium,7,namesilo,,,25/09/2026 23:52
@@ -805,17 +868,18 @@ fbd983ea-807b-4cf8-ab7b-c37df6f9ec30,eclipse.auction,available,36.99,36.99,high,
 d745f484-f35f-4910-b302-d271ec5868ec,beebread.auction,available,36.99,36.99,medium,low,8,namesilo,,,18/09/2026 17:24
 7908b423-b88e-4d44-b33b-aa7fac6caf43,audubon.auction,available,36.99,36.99,medium,low,7,namesilo,,,21/09/2026 03:14
 83c4e9e7-5705-48b9-9a60-79129db9a48b,atomic.auction,available,36.99,36.99,high,medium,6,namesilo,,,22/09/2026 11:03
-fc1f8dd3-25f8-46de-9f54-959f1e47d550,sultry.auction,available,4.99,52.99,medium,low,6,name.com,,,10/09/2026 20:31
+fc1f8dd3-25f8-46de-9f54-959f1e47d550,sultry.auction,available,4.99,52.99,high,low,6,name.com,,,10/09/2026 20:31
 a3776a32-1fa2-4f68-b520-dbc1944907c6,delphic.auction,available,4.99,52.99,medium,low,7,name.com,,,14/08/2026 00:46
 4604a3f6-e67e-49f8-aa7b-1d6f87237b7d,manlike.auction,available,4.99,52.99,medium,low,7,name.com,,,24/08/2026 14:48
 822a02dd-ffa4-40a2-8c0d-669348af17ff,acetonic.auction,available,4.99,52.99,medium,low,8,name.com,,,
-7810285f-cae2-45f5-aa9d-33c383e26e68,cinderella.auction,available,4.99,,high,low,10,name.com,,,
+7810285f-cae2-45f5-aa9d-33c383e26e68,cinderella.auction,available,36.99,36.99,high,low,10,namesilo,,,29/09/2026 09:13
 d263da31-3b9c-4471-820b-90b7ea8dae62,sensible.auction,available,36.99,36.99,high,low,8,namesilo,,,09/09/2026 11:07
 11afeb59-9e24-4921-ba73-180d99f606af,blackbeard.auction,available,36.99,36.99,medium,low,10,namesilo,,,24/09/2026 02:06
 487b3826-49c3-4e84-a33a-9237ad1aca5f,normative.auction,available,4.99,52.99,medium,low,9,name.com,,,03/09/2026 21:19
-6b5ab7ec-276d-41f4-b1e3-dbb3cb6dd269,arco.auction,available,4.99,52.99,medium,low,4,name.com,,,06/08/2026 16:02
+6b5ab7ec-276d-41f4-b1e3-dbb3cb6dd269,arco.auction,available,4.99,52.99,high,low,4,name.com,,,06/08/2026 16:02
 2990c6c6-dc9d-473d-a695-480d69950301,centenary.auction,available,4.99,52.99,high,low,9,name.com,,,11/08/2026 23:54
 806883f8-4434-47e2-ab66-ad0e93a8ec75,hermann.auction,available,36.99,36.99,high,low,7,namesilo,,,20/09/2026 07:11
+2caa5dae-e49a-48b7-a58a-6ddfb79a6fcb,invitations.auction,available,36.99,36.99,high,low,11,namesilo,,,29/09/2026 11:30
 9925c637-f61f-4ed1-a3bf-7a837df8aef0,marty.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 15:43
 0b404619-c9c2-4f87-9929-e5c626f7ace8,backstroke.auction,available,36.99,36.99,high,low,10,namesilo,,,21/09/2026 16:09
 4cf776df-9f12-4181-a44c-59a5a8c73ac9,wily.auction,available,4.99,52.99,medium,low,4,name.com,,,13/08/2026 04:38
@@ -831,10 +895,10 @@ c805706b-3f9c-4ad7-91f3-6d767dc701e4,unsung.auction,available,38.98,46.98,medium
 f9549bf1-fabe-42fc-915c-fb0b21deb504,newfound.auction,available,36.99,36.99,medium,low,9,namesilo,,,08/09/2026 04:48
 92e7ed58-3467-45a2-aa45-7806d78c6d97,phil.auction,available,4.99,,high,medium,4,name.com,,,
 b5eb99c7-ea07-4f79-a7c1-6b8be3caccd4,adaptative.auction,available,36.99,36.99,high,low,10,namesilo,,,21/09/2026 16:59
-d00f4663-3996-4a99-9036-b6bd675f6f84,dragon.auction,available,36.99,36.99,high,medium,6,namesilo,,,25/09/2026 09:33
+d00f4663-3996-4a99-9036-b6bd675f6f84,dragon.auction,available,29.18,29.18,high,medium,6,spaceship,,,29/09/2026 16:42
 800b0029-e4a7-44d0-b416-275ce3ebf82d,perplex.auction,available,36.99,36.99,high,low,7,namesilo,,,21/09/2026 17:26
 6365fb6c-1d8a-4a9d-8625-2921625a3ac6,perilous.auction,available,36.99,36.99,medium,low,8,namesilo,,,08/09/2026 01:42
-8142dc34-3d81-426c-8ca9-541a2a269104,algebraic.auction,available,4.99,52.99,medium,low,9,name.com,,,
+8142dc34-3d81-426c-8ca9-541a2a269104,algebraic.auction,available,4.99,52.99,high,low,9,name.com,,,
 972a1463-9c03-42f6-9bd3-d7559cb8c8b4,coniferous.auction,available,4.99,52.99,high,low,10,name.com,,,12/08/2026 20:37
 c1f69a76-9fe6-4da0-9f4d-8f2a86e9c5e5,customise.auction,available,4.99,,high,low,9,name.com,,,
 0e3b40a3-33f1-4727-9956-290c0f65f4e3,air.auction,premium,242,242,high,medium,3,namesilo,,,19/09/2026 13:23
@@ -845,7 +909,7 @@ ddd58b27-6835-43a5-947f-26f86c90aa08,unneeded.auction,available,36.99,36.99,medi
 f5a07810-edfd-4073-918d-7ef90f3f9ab2,mutation.auction,available,4.99,52.99,high,low,8,name.com,,,03/09/2026 11:41
 5054e910-510a-46e2-8b46-5e44347da192,exciting.auction,available,38.98,46.98,high,low,8,namecheap,,,24/09/2026 15:57
 b90cd763-837e-4ebb-b62c-d27693423740,mandela.auction,available,29.18,29.18,high,low,7,spaceship,,,28/09/2026 14:49
-a590ba78-0a80-4f02-bae4-4e3c7e9b2ec7,masters.auction,premium,118.8,118.8,high,low,7,namesilo,,,
+a590ba78-0a80-4f02-bae4-4e3c7e9b2ec7,masters.auction,premium,108.9,108.9,high,low,7,dynadot,,,29/09/2026 17:44
 2c30d0c8-cf99-45ae-8ea6-31d7cde62545,cooperative.auction,premium,242,242,high,low,12,namesilo,,,29/09/2026 02:51
 dd9fccd1-726a-43d7-b793-76406d1e1c0e,litigate.auction,available,36.99,36.99,medium,low,8,namesilo,,,17/09/2026 05:06
 63a3897f-e81a-44e1-8e91-dd4bb3dc8848,wraps.auction,available,36.99,36.99,medium,low,5,namesilo,,,20/09/2026 11:16
@@ -853,29 +917,32 @@ dd9fccd1-726a-43d7-b793-76406d1e1c0e,litigate.auction,available,36.99,36.99,medi
 bc814948-1a8f-4c94-bb5e-6d2c2fce7e42,thrasher.auction,available,36.99,36.99,medium,low,8,namesilo,,,18/09/2026 13:24
 c15a319f-64bf-4d1a-a137-fe8706954418,muzzy.auction,available,4.99,52.99,medium,low,5,name.com,,,10/08/2026 16:24
 e205d6aa-cc79-4762-a74d-cbc9c6c78dfe,chant.auction,available,36.99,36.99,high,low,5,namesilo,,,24/09/2026 13:41
+3c988e74-e51c-4cb5-a877-a2f28e85e4eb,wittgenstein.auction,available,29.18,29.18,medium,low,12,spaceship,,,29/09/2026 09:48
 f28e2cc3-a3c9-4a37-9560-a8273a877456,aeonian.auction,available,4.99,52.99,medium,low,7,name.com,,,
 4a508dd3-4c7d-4731-95c0-6878a20e4a59,trenton.auction,available,38.98,46.98,high,low,7,namecheap,,,24/09/2026 12:19
 30aab010-2081-4945-835f-c25c5ccc1d99,veer.auction,available,29.18,29.18,high,low,4,spaceship,,,27/09/2026 21:02
 546d5f54-79db-40ec-a27c-273c9bbfb991,tasmania.auction,available,36.99,36.99,high,low,8,namesilo,,,27/09/2026 16:02
 8f68ffb9-e6f7-415d-9f7e-b51a7f280280,unilateral.auction,available,36.99,36.99,medium,low,10,namesilo,,,12/09/2026 12:59
+c636008a-50cd-47c3-bb51-879ef1330271,preparations.auction,available,29.18,29.18,low,low,12,spaceship,,,29/09/2026 05:22
 7adc2cb1-10c2-476a-8b00-d8f609ed119d,yawn.auction,available,29.18,29.18,medium,low,4,spaceship,,,28/09/2026 11:12
 0cf8e07d-c8b3-4eb6-98fe-a4cfcf26e4a7,interests.auction,available,36.99,36.99,high,low,9,namesilo,,,25/09/2026 16:44
 23543336-411e-4464-bcce-0cb5fe196700,gyroplane.auction,available,36.99,36.99,medium,low,9,namesilo,,,21/09/2026 06:27
-891d02eb-a0c9-48a8-9d8a-3046454ecdc6,modeled.auction,available,4.99,52.99,medium,low,7,name.com,,,25/08/2026 02:51
+891d02eb-a0c9-48a8-9d8a-3046454ecdc6,modeled.auction,available,4.99,52.99,high,low,7,name.com,,,25/08/2026 02:51
 b6d2aa11-f991-4358-9cf4-0c830f920bdf,bounce.auction,available,36.99,36.99,high,low,6,namesilo,,,23/09/2026 01:22
 b64a0507-989a-4c49-9dc5-17d5846c0b14,twelfth.auction,available,4.99,52.99,high,low,7,name.com,,,
 2dfbf086-826b-42a4-87b1-57da3506f1f2,hannah.auction,available,36.99,36.99,high,low,6,namesilo,,,25/09/2026 11:24
 36b050bf-c4bc-45e3-b93b-748ca301ceff,croak.auction,available,38.98,46.98,medium,low,5,namecheap,,,24/09/2026 19:33
-38d8a784-908f-403d-a8ba-16edbc6f8ba1,ludlow.auction,available,36.99,36.99,medium,low,6,namesilo,,,27/09/2026 23:11
+38d8a784-908f-403d-a8ba-16edbc6f8ba1,ludlow.auction,available,36.99,36.99,high,low,6,namesilo,,,27/09/2026 23:11
 7bf6d8a7-9791-4bcb-a670-6c31b91fcdc4,anemic.auction,available,4.99,52.99,medium,low,6,name.com,,,
 9541946a-d203-4f4c-bfa8-7e0cf281475f,tirana.auction,available,38.98,46.98,high,low,6,namecheap,,,18/09/2026 02:27
-9de5d5fa-dd8a-432d-bdd1-0a6621c50d1b,hadley.auction,available,36.99,36.99,medium,low,6,namesilo,,,27/09/2026 20:44
+9de5d5fa-dd8a-432d-bdd1-0a6621c50d1b,hadley.auction,available,36.99,36.99,high,low,6,namesilo,,,27/09/2026 20:44
 e8b4cbdc-c292-46a0-acb3-5c5576380405,nescience.auction,available,36.99,36.99,medium,low,9,namesilo,,,12/09/2026 14:26
 0ae5fbe3-07a9-4da3-ad7c-516a99b80c18,oxford.auction,available,4.99,,high,low,6,name.com,,,
 be706326-ddf5-4d39-907d-3a83e016706f,syncopated.auction,available,36.99,36.99,medium,low,10,namesilo,,,11/09/2026 06:19
-0ca7a617-842c-4ffe-bde7-7ff0bc5d36d2,ventolin.auction,available,36.99,36.99,medium,low,8,namesilo,,,18/09/2026 03:33
+0ca7a617-842c-4ffe-bde7-7ff0bc5d36d2,ventolin.auction,available,36.99,36.99,high,low,8,namesilo,,,18/09/2026 03:33
 abed6f8d-96f7-47d7-b92e-b486928bcf91,carelessly.auction,available,36.99,36.99,medium,low,10,namesilo,,,14/09/2026 05:19
 2fbd4707-e8f2-4bbc-92c6-cfdd1d3aeddf,motorbus.auction,available,36.99,36.99,medium,low,8,namesilo,,,21/09/2026 05:59
+c113ae75-8b8a-412c-a2cc-c1e44edfcc8d,commissioned.auction,available,3.09,29.35,medium,low,12,porkbun,,,29/09/2026 23:15
 9589f854-dade-4bcb-833a-8cb996888409,boston.auction,premium,1100,1100,high,low,6,dynadot,,,29/09/2026 01:41
 07c230a1-d34f-474c-9f39-c66d9dda06b0,koh.auction,available,36.99,36.99,medium,low,3,namesilo,,,29/09/2026 04:20
 2769c978-1af8-414c-b9f3-3cf015def59d,discretion.auction,available,36.99,36.99,high,low,10,namesilo,,,24/09/2026 15:03
@@ -887,11 +954,11 @@ be50e274-f01c-440a-910e-e09497def6c3,orton.auction,available,29.18,29.18,medium,
 fe009854-ab1a-4059-9c1e-b4ebe4f135e8,session.auction,available,29.18,29.18,high,low,7,spaceship,,,28/09/2026 17:16
 71c30f93-0085-49b4-a562-169af8f8de52,fatty.auction,available,4.99,52.99,high,low,5,name.com,,,17/08/2026 23:52
 84062b5b-6d05-40b6-8c04-3fbdbf1b7cf1,indigenous.auction,available,4.99,52.99,high,low,10,name.com,,,07/08/2026 19:31
-e2c21d98-6cfc-49db-ba31-6dfe939e1c36,heaven.auction,available,4.99,,high,low,6,name.com,,,
+e2c21d98-6cfc-49db-ba31-6dfe939e1c36,heaven.auction,available,36.99,36.99,high,low,6,namesilo,,,29/09/2026 17:41
 c31325d2-06ba-4cce-99fd-c22c80971191,ehrlich.auction,available,29.18,29.18,medium,low,7,spaceship,,,29/09/2026 00:46
 0ce51ac9-e058-4dc7-a2b4-0e01a9293aba,airframe.auction,available,36.99,36.99,high,low,8,namesilo,,,17/09/2026 23:10
 87e0db99-6bc4-46cc-9c89-466bc1dcd8af,unobvious.auction,available,36.99,36.99,medium,low,9,namesilo,,,12/09/2026 16:07
-cb428ed0-8978-449c-9d88-3e8015361629,eiffel.auction,available,38.98,46.98,medium,low,6,namecheap,,,18/09/2026 05:59
+cb428ed0-8978-449c-9d88-3e8015361629,eiffel.auction,available,38.98,46.98,high,low,6,namecheap,,,18/09/2026 05:59
 08e86c4d-8fc7-4f19-820d-21b18de79876,association.auction,available,28.2,28.2,high,low,11,cloudflare,,,27/09/2026 21:32
 eef77dfe-9337-4bb9-b98b-456239d44468,satanic.auction,available,36.99,36.99,medium,low,7,namesilo,,,24/09/2026 05:47
 b69ba536-dc52-4281-a571-fbd5a5dea0f4,structural.auction,available,38.98,46.98,high,low,10,namecheap,,,19/09/2026 17:09
@@ -900,6 +967,7 @@ dd512170-ad99-4dd7-8a36-9a32b9140856,palmerston.auction,available,36.99,36.99,me
 0dd68ee2-5c66-4925-8e34-6c3825599ca8,premarital.auction,available,36.99,36.99,high,low,10,namesilo,,,22/09/2026 06:09
 a7a68609-35db-4140-8920-deb0f0eb66f7,overjoy.auction,available,4.99,,high,low,7,name.com,,,
 008e07c6-d7e7-41ed-97d5-713a9c7289b1,anshar.auction,available,36.99,36.99,medium,low,6,namesilo,,,19/09/2026 12:12
+c7bbd647-4f3b-47ef-899e-aa9da7c4320d,webber.auction,available,36.99,36.99,medium,low,6,namesilo,,,29/09/2026 15:02
 7db38c09-db4a-464e-84e0-a189d3ea471e,airstrip.auction,available,36.99,36.99,high,low,8,namesilo,,,17/09/2026 23:24
 c07b27a3-3b8b-4aec-b923-aa3e16bef661,missoula.auction,available,36.99,36.99,medium,low,8,namesilo,,,29/09/2026 01:41
 137de4b2-6cd2-487e-95f6-345cb497adeb,throbbing.auction,available,36.99,36.99,high,low,9,namesilo,,,11/09/2026 14:47
@@ -907,11 +975,12 @@ c07b27a3-3b8b-4aec-b923-aa3e16bef661,missoula.auction,available,36.99,36.99,medi
 5ec43848-ed25-46d9-bb91-948650673c74,medusa.auction,available,4.99,52.99,high,low,6,name.com,,,24/08/2026 19:13
 e1811d3d-36bd-4433-bf99-24b661f9c15b,gimp.auction,available,4.99,52.99,medium,low,4,name.com,,,23/08/2026 13:28
 357c8db6-c916-450f-871b-f658279d874a,synchronal.auction,available,36.99,36.99,medium,low,10,namesilo,,,11/09/2026 06:13
-7c7b28cd-df4b-4f13-b332-a8f756246d7e,nominee.auction,available,4.99,,high,low,7,name.com,,,
+7c7b28cd-df4b-4f13-b332-a8f756246d7e,nominee.auction,available,29.18,29.18,high,low,7,spaceship,,,29/09/2026 06:17
+f1caa76b-76ec-4507-929b-e43c7aa55cf6,muskegon.auction,available,3,30.18,medium,low,8,dynadot,,,29/09/2026 10:06
 518bd890-78f1-4c2e-9fd6-a813bdca0219,browse.auction,available,28.2,28.2,high,low,6,cloudflare,,,29/09/2026 04:39
 a23e0fee-cab2-49b6-b948-3462996adc51,argon.auction,available,36.99,36.99,high,low,5,namesilo,,,19/09/2026 23:19
 6f98ecd5-02df-4ed4-a33e-30ad0386125c,adducent.auction,available,4.99,52.99,medium,low,8,name.com,,,
-46ff1eb3-f819-4f51-9da0-72d8f985885b,unnamed.auction,available,36.99,36.99,medium,low,7,namesilo,,,03/09/2026 12:56
+46ff1eb3-f819-4f51-9da0-72d8f985885b,unnamed.auction,available,36.99,36.99,high,low,7,namesilo,,,03/09/2026 12:56
 12da1a05-aefa-43c9-9f52-95869409ff9d,unclipped.auction,available,36.99,36.99,medium,low,9,namesilo,,,12/09/2026 05:25
 172938b8-b297-4a84-8f99-16269d658ac7,azalea.auction,available,38.98,46.98,high,low,6,namecheap,,,21/09/2026 11:00
 7eaf6125-f29b-491a-a049-d04a6bb651a1,daylong.auction,available,4.99,52.99,medium,low,7,name.com,,,13/08/2026 18:51
@@ -921,81 +990,12 @@ a40ac59f-7777-4d38-9fac-84c3022c72fd,unchanged.auction,available,4.99,52.99,high
 cdb2305b-880e-4d42-8679-71c106e18105,preferably.auction,available,38.98,46.98,medium,low,10,namecheap,,,15/09/2026 21:14
 bd39da82-1dd1-4810-961c-ad0bd33c87d1,apadana.auction,available,36.99,36.99,medium,low,7,namesilo,,,19/09/2026 16:10
 14e95e89-71fb-46f0-a44e-3bc5629122b9,anthus.auction,available,36.99,36.99,medium,low,6,namesilo,,,19/09/2026 14:02
-c5c8418e-1081-4bf6-aa59-459f9b777338,preference.auction,available,4.99,,high,low,10,name.com,,,
+c5c8418e-1081-4bf6-aa59-459f9b777338,preference.auction,available,36.99,36.99,high,low,10,namesilo,,,29/09/2026 16:57
 3c875714-24aa-4226-83ca-6abf60c4ffd0,humiliation.auction,available,28.2,28.2,medium,low,11,cloudflare,,,28/09/2026 12:26
-d38764ac-1cd9-4e62-894a-c9914c6de442,calender.auction,available,4.99,,high,low,8,name.com,,,
+d38764ac-1cd9-4e62-894a-c9914c6de442,calender.auction,available,29.18,29.18,high,low,8,spaceship,,,29/09/2026 05:50
 67c34bec-66af-4054-bf5f-603fce179907,thurston.auction,available,3.09,29.35,medium,low,8,porkbun,,,28/09/2026 04:06
+acc97b37-bddb-4024-a64e-b2be06f11c08,pleaded.auction,available,36.99,36.99,medium,low,7,namesilo,,,29/09/2026 22:56
 d5a087c8-8276-4d43-9c67-4f6993b97d49,chestnut.auction,available,4.99,52.99,high,low,8,name.com,,,23/09/2026 14:04
 2d5341b7-aea5-4ca0-8308-32200171ea31,graceless.auction,available,4.99,52.99,medium,low,9,name.com,,,18/08/2026 20:43
 4e1cd360-af3d-4f5a-809b-85d42d81a0a7,florentine.auction,available,4.99,52.99,high,low,10,name.com,,,18/08/2026 08:58
 ce619864-6152-411d-86f9-71a094ca2291,requisite.auction,available,4.99,52.99,high,low,9,name.com,,,17/08/2026 13:21
-59189e97-05c2-427a-b964-8aae811cc00a,agnate.auction,available,4.99,52.99,medium,low,6,name.com,,,
-a7adaf3c-163b-4300-b337-9ed5b54c7f7b,aconcagua.auction,available,36.99,36.99,medium,low,9,namesilo,,,17/09/2026 02:04
-c0de8680-786b-4503-b0f1-31554599a22e,soissons.auction,available,36.99,36.99,medium,low,8,namesilo,,,22/09/2026 15:58
-dbc409c3-64d9-4eda-8f75-d0d295959b08,ruth.auction,available,36.99,36.99,high,low,4,namesilo,,,21/09/2026 12:34
-1a068b5e-b314-41f5-99b4-fdd39513b6be,upfield.auction,available,36.99,36.99,medium,low,7,namesilo,,,12/09/2026 23:08
-b6ae76a2-7719-4624-9692-61893278baf9,slammer.auction,available,36.99,36.99,medium,low,7,namesilo,,,08/09/2026 22:49
-299cf334-ca07-449c-933e-b462b6b41a97,undying.auction,available,4.99,52.99,medium,low,7,name.com,,,13/08/2026 20:04
-9f860a9d-e713-49f3-ad3c-50b0ba7ff16c,rhythmic.auction,available,3.09,29.35,high,low,8,porkbun,,,27/09/2026 14:50
-8d4ba1f1-4f36-4d50-bfb5-96b03df38796,rabbinic.auction,available,36.99,36.99,medium,low,8,namesilo,,,09/09/2026 09:14
-7f549782-ac28-4db1-ba79-332a0556d894,crouch.auction,available,4.99,52.99,medium,low,6,name.com,,,10/09/2026 17:37
-76a0fc7e-6aa6-439d-8c49-fece2779b079,luigi.auction,available,36.99,36.99,high,low,5,namesilo,,,27/09/2026 07:36
-4a5416a8-7c1a-43b9-a5d1-72caeb3dac42,forbidding.auction,available,4.99,52.99,medium,low,10,name.com,,,18/08/2026 11:08
-8fbf2c5f-6e3b-45f0-bda8-d7aecb83d7e3,minority.auction,available,36.99,36.99,high,low,8,namesilo,,,28/09/2026 14:53
-22bae147-8f4b-433e-8ab0-d5d66f477219,countries.auction,available,4.99,,medium,low,9,name.com,,,
-66f270f7-5fbb-48ee-bff1-ccd5f1614e83,sums.auction,available,36.99,36.99,medium,low,4,namesilo,,,18/09/2026 07:08
-76645850-f39d-4b75-a025-978ab51a3844,banian.auction,available,36.99,36.99,medium,low,6,namesilo,,,22/09/2026 02:05
-a731bcc6-7fa3-47e3-994b-76e39e7a97d2,apologist.auction,available,36.99,36.99,medium,low,9,namesilo,,,19/09/2026 18:45
-94b24052-836b-424b-9ac6-f1a3dd71c886,bagging.auction,available,,,medium,low,7,,,,21/09/2026 18:06
-b4c85f8e-3da6-48da-95fb-92f5db9766b7,oxygen.auction,available,36.99,36.99,high,low,6,namesilo,,,28/09/2026 23:01
-f39d2bf2-3588-401c-8a71-332be7ceb288,shock.auction,available,4.99,,high,low,5,name.com,,,
-05db50ea-941b-4a22-8a95-86c8dd88ae4b,sniffy.auction,available,4.99,52.99,medium,low,6,name.com,,,21/08/2026 01:27
-49656316-b98f-4cc0-83ad-94f309846e14,protein.auction,available,36.99,36.99,high,low,7,namesilo,,,08/09/2026 08:51
-e5bf2f0e-9123-4d6d-91a6-26d913773e63,queried.auction,available,38.98,46.98,medium,low,7,namecheap,,,20/09/2026 15:21
-a9bc81e3-2970-4637-97cd-331b9f6ea9d6,assouan.auction,available,36.99,36.99,medium,low,7,namesilo,,,20/09/2026 16:37
-1e1bbb76-6354-4867-9e36-ed17664626c3,guangzhou.auction,premium,118.8,118.8,medium,low,9,namesilo,,,28/09/2026 13:37
-0dc8cab1-4345-4795-b632-28b4328126b6,zanzibar.auction,available,4.99,,high,low,8,name.com,,,
-a00edb58-61b0-41a4-b3a4-78d662720dda,propellent.auction,available,36.99,36.99,medium,low,10,namesilo,,,09/09/2026 03:28
-387a72de-28a7-4dfd-9bee-28d20d4cdd26,watertight.auction,available,4.99,52.99,high,low,10,name.com,,,11/08/2026 08:34
-db4b1261-bb45-4d9e-a0d8-9421965819f5,expect.auction,available,4.99,,high,low,6,name.com,,,
-d3cf7899-75ff-4b2a-9782-8aca2541ab68,observation.auction,available,29.18,29.18,high,low,11,spaceship,,,28/09/2026 07:02
-01cbde77-129b-46b3-8b10-d0c2173e88a6,strapping.auction,available,4.99,52.99,medium,low,9,name.com,,,09/08/2026 08:02
-eda7c46c-9888-4c10-bb7a-38ee4dafa8a1,summerset.auction,available,4.99,52.99,medium,low,9,name.com,,,18/08/2026 08:29
-34964496-9f6f-41e7-a24b-e859e0479065,philippine.auction,available,4.99,52.99,high,low,10,name.com,,,18/08/2026 04:21
-bbbea273-193f-4226-90f4-41bbac645394,further.auction,available,4.99,52.99,high,low,7,name.com,,,24/09/2026 17:03
-fe4195b1-5e4a-4776-887c-e5793e02e9a6,admired.auction,available,38.98,46.98,high,low,7,namecheap,,,21/09/2026 18:53
-4d3b7739-1ce1-4c6b-be69-1d446a7cf75a,prompter.auction,available,38.98,46.98,high,low,8,namecheap,,,21/09/2026 06:13
-95f1ac30-5d02-4f5b-889e-68e28767fe35,metre.auction,available,36.99,36.99,high,low,5,namesilo,,,25/09/2026 15:57
-76e4446d-2c6c-497d-82d4-f127d9b1c0f9,aware.auction,available,38.98,46.98,high,low,5,namecheap,,,25/09/2026 20:16
-57a9f2a9-7cd3-42bb-a86c-59f713b0b523,browne.auction,available,36.99,36.99,high,low,6,namesilo,,,20/09/2026 10:27
-c556bb43-158a-47f7-87b7-6082b4a43f17,yelled.auction,available,28.2,28.2,high,low,6,cloudflare,,,27/09/2026 21:26
-f0bca808-f6ee-4a7f-aa36-5e257da5fc82,ames.auction,available,36.99,36.99,high,low,4,namesilo,,,25/09/2026 12:32
-ada3d2c1-7895-4e1b-94fb-bbf7f3f040db,voluptuary.auction,available,4.99,52.99,medium,low,10,name.com,,,24/08/2026 12:27
-fcbb42d2-258c-4d4b-818f-04d6d524acf5,diagnostic.auction,available,4.99,52.99,high,low,10,name.com,,,14/08/2026 05:47
-d892b36f-b98e-4a1e-9101-90b4071b320a,trek.auction,available,36.99,36.99,high,low,4,namesilo,,,29/09/2026 02:22
-895b940d-6326-4fb9-bfa8-d296b369a5c7,bearberry.auction,available,38.98,46.98,medium,low,9,namecheap,,,22/09/2026 20:57
-7f533a00-5b8f-4cdb-b080-5e6024573805,amber.auction,premium,118.8,118.8,high,low,5,namesilo,,,22/09/2026 03:52
-9f095ddc-544a-4066-b801-92e95be96575,expedience.auction,available,36.99,36.99,medium,low,10,namesilo,,,10/09/2026 02:11
-caef34fd-240d-4860-a27b-d93ff0dd69cd,unbroken.auction,available,4.99,52.99,high,low,8,name.com,,,22/08/2026 15:36
-2e2f4cbf-f7fa-4ba4-864d-7246982110c4,clapping.auction,available,38.98,46.98,high,low,8,namecheap,,,19/09/2026 20:57
-ccecc415-f8f0-4c87-952f-2851ee4805d7,torture.auction,available,4.99,52.99,high,low,7,name.com,,,11/09/2026 18:03
-4820ddaa-0010-42b7-8531-ccfd77c34c9c,student.auction,premium,108.9,108.9,high,low,7,dynadot,,,29/09/2026 03:37
-cbf4b93f-0ab9-4ba6-be59-42b950338c24,yearn.auction,available,4.99,52.99,high,low,5,name.com,,,24/08/2026 08:59
-6d3387a6-afcb-4198-86cb-7902d44ecbaf,entranced.auction,available,4.99,52.99,medium,low,9,name.com,,,09/08/2026 10:11
-24043690-d379-4dbd-90af-1e355431915f,barbican.auction,available,36.99,36.99,medium,low,8,namesilo,,,22/09/2026 04:18
-f21447f1-9790-4e15-9347-c216651eaf59,mounted.auction,available,4.99,52.99,high,low,7,name.com,,,25/08/2026 08:34
-58e40a9e-95a1-40fe-a345-e1ea5af45e35,amateurs.auction,available,36.99,36.99,medium,low,8,namesilo,,,29/09/2026 00:10
-4b0dd148-b0d7-4a3b-b239-fde7a462d7b6,adnate.auction,available,4.99,52.99,medium,low,6,name.com,,,
-9770df61-320d-4233-a7d3-14dc26db956d,rumble.auction,available,4.99,52.99,high,low,6,name.com,,,20/08/2026 20:36
-8525ec06-72e1-4bcb-952b-d9f2d7208d4b,assertion.auction,available,38.98,46.98,high,low,9,namecheap,,,20/09/2026 16:14
-60898d17-9d2a-49b7-9fad-074facc96bf4,shells.auction,available,36.99,36.99,medium,low,6,namesilo,,,19/09/2026 01:23
-8c5e34ea-2fdc-4434-8d65-d64f4c788d8d,terms.auction,available,4.99,,high,low,5,name.com,,,
-e709955a-81d0-46fe-9783-b26196be2fa0,haptic.auction,available,4.99,52.99,medium,low,6,name.com,,,21/08/2026 00:01
-a942ea53-8e65-4611-8c21-3713f929edf2,spreadsheet.auction,available,4.99,,high,low,11,name.com,,,
-b4d54e9e-d62c-47bf-a934-8a59258acf7b,welkin.auction,available,4.99,52.99,medium,low,6,name.com,,,16/08/2026 21:01
-1653792a-e95a-48d4-9db1-ea7494fb6d38,amberbell.auction,available,38.98,46.98,medium,low,9,namecheap,,,18/09/2026 16:32
-3e6ffe85-7315-4d58-9dff-43b30bc745b2,marly.auction,available,4.99,52.99,medium,low,5,name.com,,,24/08/2026 16:08
-9e20e282-aa5e-4c44-9256-1fa9d4f62961,holder.auction,available,4.99,,high,low,6,name.com,,,
-fd6699f5-82d5-43c8-926c-cf40f6ff737f,links.auction,premium,250,,high,low,5,name.com,,,
-fd3eafe8-27f5-48fe-9163-2dde492e7484,fell.auction,available,4.99,52.99,medium,low,4,name.com,,,08/08/2026 15:49
-f4c1000c-0baf-40fe-95cc-02c215cb954a,aussie.auction,resell,,,high,low,6,Dreamscape Networks International Pte Ltd,29/05/2016 00:14,29/05/2027 00:14,26/09/2026 04:08
